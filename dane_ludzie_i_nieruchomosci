@@ -1,0 +1,1001 @@
+﻿imie,miasto,dochód,ma_dzieci,liczba_dzieci,ma_zwierze,jakie_zwierze,nieruchomosc
+Jurek,Warszawa,19486,Nie,0,Nie,brak,dom
+Antek,Orłowo,15286,Nie,0,Nie,brak,kamienica
+Anna,Gdańsk,9574,Nie,0,Tak,małpa,kamienica
+Magda,Wrocław,19072,Nie,0,Tak,słoń,dom
+Ela,Zielona Góra,6483,Tak,2,Nie,brak,blok
+Beata,Pcim,16442,Tak,4,Tak,słoń,kamienica
+Beata,Kobyla Góra,11431,Nie,0,Tak,słoń,kamienica
+Jan,Legnica,20876,Tak,3,Tak,małpa,kamienica
+Magda,Orłowo,17657,Tak,4,Nie,brak,dom
+Antek,Orłowo,8687,Tak,2,Tak,małpa,kamienica
+Jurek,Zielona Góra,20110,Nie,0,Tak,pies,dom
+Magda,Zielona Góra,9268,Tak,2,Nie,brak,dom
+Klaudia,Warszawa,13772,Tak,3,Nie,brak,dom
+Julian,Legnica,20076,Tak,2,Tak,pies,kamienica
+Antek,Pcim,25096,Nie,0,Tak,kot,dom
+Agata,Warszawa,18921,Nie,0,Tak,małpa,blok
+Ewa,Orłowo,22969,Nie,0,Nie,brak,kamienica
+Anna,Adamczycha,8377,Nie,0,Nie,brak,kamienica
+Anna,Pcim,18768,Nie,0,Nie,brak,kamienica
+Antek,Orłowo,15967,Nie,0,Nie,brak,kamienica
+Beata,Ełk,16925,Nie,0,Tak,słoń,kamienica
+Beata,Łódź,13060,Nie,0,Tak,małpa,dom
+Julian,Łódź,16713,Nie,0,Nie,brak,dom
+Agata,Zielona Góra,11309,Tak,2,Tak,pies,kamienica
+Anna,Gdańsk,8302,Nie,0,Nie,brak,dom
+Julian,Warszawa,22527,Nie,0,Tak,kot,kamienica
+Beata,Orłowo,9536,Nie,0,Tak,słoń,dom
+Magda,Zielona Góra,23186,Tak,4,Nie,brak,dom
+Jurek,Ełk,22510,Nie,0,Nie,brak,dom
+Magda,Gdańsk,12153,Nie,0,Nie,brak,dom
+Julian,Warszawa,17248,Tak,3,Tak,kot,blok
+Ewa,Zielona Góra,17304,Nie,0,Tak,pies,kamienica
+Beata,Pcim,10639,Tak,1,Tak,pies,blok
+Tomasz,Ełk,13542,Nie,0,Tak,kot,dom
+Agata,Orłowo,9168,Tak,2,Tak,kot,blok
+Ela,Warszawa,10598,Nie,0,Nie,brak,kamienica
+Ola,Orłowo,14187,Tak,4,Nie,brak,kamienica
+Sylwia,Adamczycha,12264,Tak,1,Nie,brak,dom
+Anna,Kobyla Góra,11485,Tak,1,Nie,brak,blok
+Ola,Gdynia,25539,Nie,0,Tak,słoń,blok
+Ola,Łódź,10809,Tak,1,Tak,kot,blok
+Jan,Ełk,8269,Tak,2,Nie,brak,kamienica
+Magda,Kobyla Góra,11604,Nie,0,Nie,brak,kamienica
+Ewa,Warszawa,21991,Nie,0,Tak,małpa,blok
+Jola,Gdynia,21002,Nie,0,Nie,brak,kamienica
+Ela,Ełk,24272,Tak,2,Nie,brak,kamienica
+Jan,Kobyla Góra,24788,Tak,1,Tak,słoń,blok
+Beata,Adamczycha,20509,Nie,0,Nie,brak,kamienica
+Ola,Łódź,24297,Nie,0,Tak,pies,blok
+Jola,Wrocław,16390,Tak,1,Nie,brak,blok
+Antek,Warszawa,16159,Nie,0,Nie,brak,dom
+Antek,Łódź,10746,Tak,1,Tak,kot,blok
+Ewa,Kobyla Góra,20210,Nie,0,Nie,brak,kamienica
+Antek,Ełk,8037,Tak,1,Nie,brak,dom
+Jola,Wrocław,21165,Tak,2,Nie,brak,blok
+Sylwia,Zielona Góra,20290,Tak,2,Tak,słoń,dom
+Jola,Legnica,15722,Tak,3,Tak,kot,kamienica
+Agata,Łódź,14800,Nie,0,Nie,brak,blok
+Ela,Legnica,25179,Nie,0,Tak,pies,kamienica
+Ola,Zielona Góra,7640,Nie,0,Tak,pies,dom
+Anna,Gdynia,17332,Nie,0,Tak,pies,blok
+Magda,Ełk,22424,Nie,0,Nie,brak,dom
+Tomasz,Pcim,8231,Nie,0,Tak,małpa,dom
+Julian,Orłowo,15971,Nie,0,Nie,brak,blok
+Antek,Gdynia,20930,Tak,3,Nie,brak,dom
+Klaudia,Wrocław,20608,Nie,0,Tak,słoń,kamienica
+Ewa,Wrocław,7032,Tak,3,Tak,pies,dom
+Antek,Łódź,7664,Tak,3,Tak,słoń,kamienica
+Julian,Zielona Góra,17882,Tak,4,Nie,brak,kamienica
+Ela,Orłowo,15206,Nie,0,Tak,pies,dom
+Sylwia,Pcim,8314,Tak,3,Nie,brak,kamienica
+Jurek,Kobyla Góra,8758,Nie,0,Nie,brak,blok
+Agata,Gdańsk,25266,Tak,2,Tak,kot,kamienica
+Klaudia,Warszawa,22415,Nie,0,Nie,brak,kamienica
+Sylwia,Pcim,18398,Nie,0,Tak,pies,kamienica
+Jola,Wrocław,20962,Tak,3,Tak,małpa,blok
+Agata,Gdańsk,24816,Nie,0,Tak,małpa,blok
+Beata,Wrocław,23963,Nie,0,Nie,brak,blok
+Magda,Orłowo,7144,Tak,2,Tak,słoń,dom
+Antek,Orłowo,20536,Tak,2,Nie,brak,blok
+Anna,Ełk,24532,Nie,0,Nie,brak,kamienica
+Jurek,Łódź,11968,Nie,0,Tak,pies,blok
+Beata,Kobyla Góra,16335,Tak,4,Nie,brak,blok
+Ola,Adamczycha,25624,Nie,0,Nie,brak,kamienica
+Ela,Wrocław,21385,Nie,0,Tak,małpa,dom
+Antek,Kobyla Góra,22228,Nie,0,Tak,słoń,blok
+Sylwia,Legnica,10743,Tak,4,Tak,kot,dom
+Beata,Wrocław,7827,Nie,0,Tak,słoń,dom
+Sylwia,Gdańsk,20562,Nie,0,Nie,brak,dom
+Antek,Kobyla Góra,9191,Nie,0,Nie,brak,kamienica
+Ewa,Pcim,17053,Nie,0,Nie,brak,dom
+Ela,Kobyla Góra,8563,Tak,3,Nie,brak,dom
+Tomasz,Pcim,22333,Tak,4,Nie,brak,kamienica
+Jurek,Orłowo,11454,Tak,4,Nie,brak,dom
+Sylwia,Zielona Góra,7082,Nie,0,Nie,brak,dom
+Jola,Pcim,13918,Tak,3,Nie,brak,kamienica
+Jan,Gdynia,20144,Nie,0,Nie,brak,kamienica
+Jola,Adamczycha,20198,Nie,0,Tak,kot,blok
+Jola,Gdynia,22972,Tak,1,Nie,brak,blok
+Beata,Gdańsk,22929,Tak,4,Nie,brak,blok
+Jurek,Warszawa,25782,Tak,4,Nie,brak,dom
+Ela,Gdańsk,11001,Tak,3,Tak,małpa,dom
+Magda,Zielona Góra,17724,Tak,4,Nie,brak,dom
+Klaudia,Łódź,18017,Tak,4,Nie,brak,kamienica
+Jurek,Wrocław,15069,Nie,0,Nie,brak,dom
+Jurek,Gdynia,18494,Tak,3,Tak,pies,blok
+Antek,Gdańsk,19194,Tak,3,Tak,pies,kamienica
+Agata,Zielona Góra,16887,Nie,0,Nie,brak,kamienica
+Jurek,Wrocław,25391,Nie,0,Tak,pies,kamienica
+Jan,Ełk,7515,Tak,3,Tak,kot,blok
+Julian,Zielona Góra,16765,Nie,0,Nie,brak,blok
+Magda,Wrocław,7959,Nie,0,Nie,brak,blok
+Beata,Wrocław,16603,Tak,3,Tak,słoń,kamienica
+Jan,Adamczycha,8896,Tak,3,Nie,brak,kamienica
+Tomasz,Warszawa,24083,Tak,1,Tak,małpa,dom
+Ewa,Pcim,18466,Nie,0,Nie,brak,dom
+Ela,Gdańsk,15110,Nie,0,Tak,słoń,blok
+Klaudia,Łódź,14057,Nie,0,Nie,brak,kamienica
+Jurek,Zielona Góra,25549,Tak,4,Nie,brak,dom
+Magda,Gdańsk,10727,Nie,0,Tak,małpa,blok
+Julian,Pcim,16723,Tak,1,Tak,małpa,blok
+Beata,Ełk,8470,Tak,2,Tak,kot,dom
+Jurek,Orłowo,24895,Tak,3,Nie,brak,blok
+Jola,Kobyla Góra,10434,Nie,0,Tak,słoń,kamienica
+Sylwia,Wrocław,17262,Tak,2,Nie,brak,blok
+Ola,Gdynia,15965,Nie,0,Tak,kot,kamienica
+Ola,Gdynia,18643,Nie,0,Nie,brak,kamienica
+Anna,Kobyla Góra,10025,Nie,0,Tak,kot,dom
+Beata,Łódź,25298,Tak,3,Tak,pies,dom
+Sylwia,Zielona Góra,8576,Tak,3,Nie,brak,dom
+Anna,Gdynia,15944,Tak,4,Tak,małpa,blok
+Ola,Kobyla Góra,24114,Nie,0,Nie,brak,dom
+Jola,Kobyla Góra,18143,Nie,0,Nie,brak,dom
+Ewa,Zielona Góra,16563,Tak,3,Nie,brak,blok
+Ela,Wrocław,9987,Nie,0,Tak,małpa,dom
+Antek,Pcim,23048,Tak,2,Nie,brak,blok
+Beata,Pcim,8862,Tak,2,Nie,brak,blok
+Klaudia,Pcim,19674,Tak,2,Nie,brak,kamienica
+Agata,Gdańsk,22462,Tak,4,Nie,brak,kamienica
+Klaudia,Warszawa,17656,Tak,4,Nie,brak,dom
+Magda,Zielona Góra,6397,Tak,4,Tak,kot,blok
+Jola,Gdańsk,17681,Nie,0,Nie,brak,kamienica
+Beata,Kobyla Góra,15920,Tak,2,Nie,brak,kamienica
+Jurek,Warszawa,11706,Nie,0,Tak,małpa,kamienica
+Tomasz,Zielona Góra,12818,Tak,4,Tak,kot,kamienica
+Ewa,Gdynia,16997,Nie,0,Nie,brak,dom
+Klaudia,Zielona Góra,21734,Nie,0,Nie,brak,kamienica
+Klaudia,Legnica,12091,Nie,0,Nie,brak,dom
+Jurek,Gdańsk,13223,Nie,0,Tak,pies,blok
+Tomasz,Gdańsk,10307,Tak,2,Nie,brak,dom
+Jan,Zielona Góra,10877,Tak,3,Tak,małpa,kamienica
+Ela,Wrocław,8328,Tak,4,Nie,brak,blok
+Jan,Pcim,15492,Tak,1,Nie,brak,blok
+Beata,Zielona Góra,9114,Nie,0,Tak,słoń,dom
+Magda,Orłowo,22435,Tak,4,Tak,kot,blok
+Julian,Gdynia,23487,Nie,0,Tak,słoń,dom
+Julian,Orłowo,23053,Nie,0,Nie,brak,blok
+Ela,Pcim,7036,Tak,4,Tak,kot,dom
+Magda,Warszawa,16835,Tak,3,Nie,brak,kamienica
+Agata,Gdańsk,10094,Tak,2,Tak,kot,dom
+Ewa,Pcim,25370,Tak,3,Nie,brak,dom
+Klaudia,Gdańsk,18144,Tak,3,Nie,brak,kamienica
+Agata,Kobyla Góra,10854,Nie,0,Nie,brak,dom
+Ewa,Legnica,11116,Tak,2,Nie,brak,dom
+Jola,Pcim,11725,Tak,3,Tak,kot,blok
+Beata,Adamczycha,11224,Tak,2,Nie,brak,dom
+Jan,Zielona Góra,20141,Tak,4,Nie,brak,blok
+Julian,Gdynia,7231,Tak,3,Nie,brak,kamienica
+Tomasz,Legnica,19263,Nie,0,Nie,brak,blok
+Antek,Pcim,17737,Tak,1,Nie,brak,blok
+Ola,Adamczycha,13583,Nie,0,Nie,brak,kamienica
+Anna,Adamczycha,20355,Nie,0,Nie,brak,blok
+Sylwia,Gdynia,25807,Nie,0,Tak,pies,kamienica
+Antek,Pcim,15136,Nie,0,Nie,brak,dom
+Jan,Zielona Góra,20510,Tak,4,Tak,słoń,dom
+Jurek,Legnica,13467,Tak,4,Nie,brak,blok
+Jan,Ełk,23298,Nie,0,Nie,brak,dom
+Ola,Wrocław,13637,Nie,0,Tak,słoń,kamienica
+Jurek,Warszawa,15940,Nie,0,Tak,pies,dom
+Ewa,Adamczycha,21168,Tak,4,Tak,pies,kamienica
+Agata,Orłowo,12157,Tak,4,Nie,brak,dom
+Antek,Pcim,17853,Tak,4,Tak,kot,blok
+Ewa,Wrocław,24491,Nie,0,Tak,małpa,dom
+Ewa,Wrocław,20237,Tak,3,Nie,brak,dom
+Agata,Wrocław,20928,Tak,3,Tak,pies,dom
+Tomasz,Kobyla Góra,15033,Nie,0,Nie,brak,kamienica
+Julian,Legnica,18313,Tak,4,Tak,pies,kamienica
+Ela,Adamczycha,22279,Tak,2,Nie,brak,blok
+Julian,Pcim,23083,Tak,2,Tak,słoń,kamienica
+Sylwia,Wrocław,19518,Tak,1,Nie,brak,dom
+Anna,Warszawa,11110,Tak,4,Tak,słoń,dom
+Jurek,Warszawa,12343,Tak,2,Nie,brak,kamienica
+Magda,Łódź,25613,Tak,1,Tak,małpa,dom
+Antek,Wrocław,10335,Nie,0,Nie,brak,blok
+Jurek,Warszawa,13992,Tak,4,Tak,kot,blok
+Klaudia,Orłowo,7509,Tak,1,Tak,słoń,kamienica
+Julian,Ełk,21547,Nie,0,Tak,kot,kamienica
+Ola,Ełk,17963,Nie,0,Nie,brak,blok
+Ela,Adamczycha,23971,Tak,1,Tak,kot,blok
+Ola,Legnica,9161,Tak,4,Nie,brak,kamienica
+Jurek,Legnica,22705,Nie,0,Nie,brak,kamienica
+Jola,Orłowo,9885,Tak,2,Nie,brak,kamienica
+Antek,Pcim,15140,Tak,2,Nie,brak,dom
+Ela,Warszawa,8548,Tak,3,Tak,kot,kamienica
+Ewa,Gdańsk,11053,Nie,0,Nie,brak,kamienica
+Jan,Warszawa,14738,Tak,2,Nie,brak,dom
+Tomasz,Gdynia,20523,Nie,0,Tak,kot,blok
+Anna,Łódź,22621,Nie,0,Tak,pies,kamienica
+Magda,Orłowo,10628,Nie,0,Nie,brak,dom
+Klaudia,Orłowo,20135,Tak,4,Nie,brak,kamienica
+Magda,Orłowo,8805,Nie,0,Tak,słoń,kamienica
+Ela,Gdańsk,13075,Tak,1,Tak,pies,dom
+Julian,Gdynia,20582,Nie,0,Tak,pies,blok
+Ola,Łódź,17255,Tak,4,Nie,brak,dom
+Jan,Wrocław,6673,Nie,0,Nie,brak,kamienica
+Julian,Wrocław,19395,Nie,0,Tak,kot,blok
+Klaudia,Pcim,7545,Nie,0,Tak,małpa,dom
+Antek,Orłowo,18791,Tak,2,Tak,małpa,dom
+Sylwia,Łódź,22249,Nie,0,Tak,małpa,blok
+Jurek,Pcim,18053,Nie,0,Tak,pies,kamienica
+Ela,Orłowo,13525,Tak,1,Nie,brak,dom
+Sylwia,Orłowo,18453,Tak,4,Tak,małpa,dom
+Jurek,Adamczycha,8474,Tak,1,Tak,kot,dom
+Julian,Orłowo,18085,Tak,2,Nie,brak,kamienica
+Agata,Zielona Góra,13157,Nie,0,Nie,brak,dom
+Beata,Warszawa,6723,Tak,3,Tak,małpa,blok
+Jan,Gdańsk,16242,Tak,1,Nie,brak,blok
+Jola,Ełk,9046,Nie,0,Nie,brak,dom
+Ola,Gdańsk,16786,Tak,3,Tak,słoń,dom
+Jan,Pcim,10585,Nie,0,Nie,brak,blok
+Julian,Ełk,10308,Tak,4,Tak,małpa,blok
+Ola,Warszawa,7055,Tak,3,Tak,pies,dom
+Klaudia,Legnica,15200,Tak,1,Tak,pies,blok
+Julian,Gdańsk,21281,Tak,1,Nie,brak,kamienica
+Klaudia,Legnica,10347,Nie,0,Nie,brak,kamienica
+Anna,Gdynia,21171,Tak,2,Tak,słoń,kamienica
+Agata,Warszawa,20499,Tak,3,Tak,słoń,kamienica
+Jola,Legnica,5972,Nie,0,Nie,brak,blok
+Tomasz,Adamczycha,8396,Tak,3,Tak,pies,kamienica
+Anna,Łódź,6422,Tak,2,Tak,słoń,dom
+Antek,Wrocław,14186,Tak,4,Nie,brak,dom
+Klaudia,Zielona Góra,12866,Nie,0,Nie,brak,kamienica
+Jola,Orłowo,10699,Tak,4,Tak,małpa,dom
+Klaudia,Wrocław,23783,Tak,3,Nie,brak,kamienica
+Sylwia,Pcim,25751,Tak,4,Nie,brak,kamienica
+Ola,Adamczycha,23094,Nie,0,Tak,kot,kamienica
+Ela,Gdańsk,19669,Tak,1,Nie,brak,dom
+Beata,Pcim,9443,Tak,2,Nie,brak,dom
+Anna,Zielona Góra,15240,Tak,3,Tak,słoń,kamienica
+Beata,Pcim,13586,Nie,0,Tak,kot,kamienica
+Klaudia,Zielona Góra,15668,Tak,4,Nie,brak,kamienica
+Agata,Wrocław,9792,Tak,2,Nie,brak,kamienica
+Antek,Warszawa,7364,Tak,1,Tak,słoń,blok
+Antek,Ełk,13613,Nie,0,Nie,brak,kamienica
+Magda,Gdańsk,19556,Tak,1,Tak,słoń,dom
+Tomasz,Pcim,20778,Tak,1,Nie,brak,kamienica
+Sylwia,Ełk,7858,Tak,2,Nie,brak,blok
+Antek,Orłowo,9432,Nie,0,Nie,brak,dom
+Ola,Ełk,22178,Nie,0,Nie,brak,blok
+Julian,Gdańsk,25353,Nie,0,Nie,brak,kamienica
+Ola,Łódź,23365,Nie,0,Tak,pies,dom
+Jan,Warszawa,6338,Tak,2,Tak,kot,kamienica
+Jan,Gdynia,22687,Tak,2,Nie,brak,dom
+Jurek,Gdańsk,24643,Nie,0,Nie,brak,dom
+Tomasz,Ełk,13727,Nie,0,Tak,małpa,dom
+Julian,Legnica,10504,Tak,4,Nie,brak,blok
+Jan,Pcim,15344,Nie,0,Nie,brak,kamienica
+Ela,Legnica,19865,Tak,1,Tak,małpa,blok
+Julian,Warszawa,5851,Tak,2,Nie,brak,blok
+Sylwia,Adamczycha,17361,Tak,1,Tak,małpa,kamienica
+Agata,Legnica,13682,Nie,0,Tak,małpa,kamienica
+Ewa,Pcim,24499,Nie,0,Tak,pies,kamienica
+Beata,Orłowo,19450,Nie,0,Nie,brak,dom
+Klaudia,Zielona Góra,11937,Tak,1,Nie,brak,blok
+Julian,Orłowo,8605,Tak,2,Tak,pies,blok
+Ola,Pcim,22953,Tak,2,Tak,kot,blok
+Magda,Wrocław,17616,Nie,0,Nie,brak,blok
+Magda,Warszawa,8017,Tak,3,Tak,pies,blok
+Beata,Wrocław,23037,Tak,2,Nie,brak,dom
+Magda,Zielona Góra,23628,Tak,1,Nie,brak,kamienica
+Ela,Pcim,22424,Tak,1,Nie,brak,dom
+Ewa,Zielona Góra,22433,Tak,2,Nie,brak,dom
+Jurek,Łódź,23958,Nie,0,Nie,brak,dom
+Jurek,Pcim,6466,Tak,4,Nie,brak,kamienica
+Jola,Gdynia,18594,Tak,3,Tak,kot,kamienica
+Tomasz,Gdynia,21205,Nie,0,Nie,brak,blok
+Klaudia,Wrocław,7226,Nie,0,Tak,pies,dom
+Julian,Wrocław,18477,Tak,3,Nie,brak,blok
+Tomasz,Warszawa,18032,Nie,0,Nie,brak,kamienica
+Antek,Orłowo,14111,Tak,1,Nie,brak,kamienica
+Beata,Adamczycha,6332,Nie,0,Tak,słoń,kamienica
+Beata,Łódź,17501,Tak,2,Tak,słoń,kamienica
+Antek,Zielona Góra,8013,Nie,0,Nie,brak,dom
+Jola,Kobyla Góra,17098,Nie,0,Nie,brak,blok
+Anna,Orłowo,13701,Nie,0,Nie,brak,kamienica
+Agata,Pcim,9196,Nie,0,Tak,pies,blok
+Julian,Adamczycha,24867,Nie,0,Tak,pies,kamienica
+Beata,Warszawa,16695,Nie,0,Tak,słoń,blok
+Agata,Gdańsk,10171,Nie,0,Tak,kot,blok
+Beata,Ełk,7252,Tak,2,Tak,małpa,kamienica
+Anna,Orłowo,17344,Tak,2,Nie,brak,kamienica
+Antek,Orłowo,23691,Nie,0,Tak,kot,blok
+Magda,Adamczycha,16893,Tak,3,Nie,brak,dom
+Jurek,Ełk,11537,Tak,3,Tak,kot,kamienica
+Anna,Pcim,21024,Nie,0,Nie,brak,kamienica
+Beata,Orłowo,21480,Tak,4,Tak,pies,dom
+Antek,Adamczycha,11772,Tak,2,Tak,pies,dom
+Klaudia,Legnica,10218,Nie,0,Tak,małpa,kamienica
+Anna,Wrocław,7867,Tak,2,Nie,brak,kamienica
+Sylwia,Gdynia,20797,Tak,3,Tak,pies,kamienica
+Jola,Ełk,7011,Tak,2,Tak,małpa,kamienica
+Antek,Wrocław,15415,Tak,3,Nie,brak,blok
+Julian,Pcim,12405,Tak,3,Nie,brak,blok
+Beata,Legnica,7235,Nie,0,Tak,kot,blok
+Ela,Orłowo,12336,Nie,0,Nie,brak,kamienica
+Jurek,Łódź,7173,Nie,0,Tak,małpa,blok
+Tomasz,Ełk,16141,Tak,2,Nie,brak,kamienica
+Beata,Wrocław,15960,Nie,0,Nie,brak,kamienica
+Julian,Warszawa,22688,Tak,2,Tak,słoń,blok
+Jan,Wrocław,18849,Tak,2,Nie,brak,kamienica
+Magda,Kobyla Góra,23594,Tak,1,Nie,brak,blok
+Klaudia,Łódź,21312,Tak,3,Tak,kot,blok
+Klaudia,Kobyla Góra,14100,Nie,0,Nie,brak,blok
+Agata,Kobyla Góra,6999,Tak,1,Nie,brak,blok
+Agata,Ełk,12062,Nie,0,Tak,małpa,blok
+Tomasz,Warszawa,15175,Tak,2,Tak,małpa,dom
+Beata,Legnica,17497,Nie,0,Tak,pies,dom
+Ola,Kobyla Góra,7366,Tak,4,Nie,brak,dom
+Tomasz,Łódź,16676,Nie,0,Tak,słoń,dom
+Ola,Zielona Góra,14752,Nie,0,Nie,brak,dom
+Ewa,Wrocław,9878,Nie,0,Nie,brak,blok
+Beata,Pcim,17859,Tak,4,Tak,kot,kamienica
+Antek,Ełk,20118,Nie,0,Tak,pies,kamienica
+Antek,Łódź,18907,Nie,0,Tak,małpa,blok
+Jurek,Gdynia,20209,Nie,0,Tak,pies,kamienica
+Ewa,Adamczycha,18469,Nie,0,Tak,słoń,kamienica
+Jola,Wrocław,16909,Tak,1,Tak,małpa,dom
+Ewa,Warszawa,11921,Nie,0,Tak,słoń,dom
+Ewa,Kobyla Góra,22059,Tak,4,Tak,pies,dom
+Tomasz,Pcim,22102,Tak,3,Tak,kot,kamienica
+Sylwia,Kobyla Góra,17837,Nie,0,Nie,brak,dom
+Magda,Warszawa,22815,Nie,0,Nie,brak,blok
+Anna,Łódź,14539,Tak,1,Tak,słoń,kamienica
+Jurek,Gdynia,8507,Nie,0,Tak,pies,kamienica
+Jurek,Adamczycha,19710,Nie,0,Tak,słoń,dom
+Jurek,Ełk,8386,Tak,3,Nie,brak,blok
+Antek,Gdynia,19910,Tak,1,Tak,kot,dom
+Anna,Wrocław,25541,Tak,3,Tak,słoń,dom
+Ewa,Łódź,11713,Tak,3,Nie,brak,kamienica
+Magda,Adamczycha,23674,Nie,0,Nie,brak,kamienica
+Jola,Gdańsk,15426,Nie,0,Tak,słoń,dom
+Ola,Gdynia,16325,Tak,3,Nie,brak,kamienica
+Sylwia,Kobyla Góra,9161,Nie,0,Tak,słoń,kamienica
+Antek,Orłowo,8423,Tak,3,Nie,brak,kamienica
+Beata,Wrocław,16545,Nie,0,Nie,brak,dom
+Beata,Ełk,15487,Tak,3,Tak,kot,kamienica
+Beata,Wrocław,15843,Tak,1,Nie,brak,dom
+Julian,Adamczycha,20411,Nie,0,Tak,pies,kamienica
+Tomasz,Gdańsk,25546,Nie,0,Nie,brak,blok
+Jan,Pcim,19762,Nie,0,Tak,słoń,kamienica
+Ewa,Gdynia,11260,Nie,0,Tak,słoń,dom
+Jan,Legnica,20345,Tak,2,Tak,słoń,kamienica
+Ela,Pcim,17319,Tak,2,Tak,kot,dom
+Tomasz,Wrocław,20451,Tak,1,Nie,brak,dom
+Beata,Zielona Góra,7187,Tak,4,Tak,kot,kamienica
+Sylwia,Wrocław,17352,Nie,0,Nie,brak,dom
+Klaudia,Warszawa,20052,Tak,1,Nie,brak,kamienica
+Antek,Adamczycha,14796,Nie,0,Nie,brak,blok
+Tomasz,Ełk,7679,Nie,0,Nie,brak,dom
+Ola,Orłowo,8258,Tak,4,Tak,słoń,dom
+Sylwia,Gdańsk,19110,Tak,2,Tak,pies,dom
+Sylwia,Zielona Góra,17704,Tak,3,Nie,brak,dom
+Julian,Legnica,22612,Nie,0,Nie,brak,blok
+Antek,Pcim,11042,Nie,0,Nie,brak,blok
+Anna,Gdynia,6820,Nie,0,Tak,kot,kamienica
+Jurek,Adamczycha,10478,Nie,0,Nie,brak,dom
+Julian,Gdynia,25708,Tak,4,Tak,słoń,dom
+Sylwia,Łódź,20158,Nie,0,Tak,pies,blok
+Anna,Warszawa,6940,Nie,0,Nie,brak,kamienica
+Antek,Gdańsk,9936,Nie,0,Tak,małpa,blok
+Klaudia,Warszawa,8003,Nie,0,Nie,brak,blok
+Ola,Wrocław,13533,Nie,0,Nie,brak,kamienica
+Sylwia,Warszawa,17803,Tak,2,Tak,małpa,dom
+Beata,Ełk,17666,Nie,0,Nie,brak,dom
+Jan,Legnica,18345,Nie,0,Nie,brak,blok
+Ewa,Wrocław,24387,Tak,2,Nie,brak,blok
+Tomasz,Zielona Góra,6861,Tak,4,Nie,brak,blok
+Tomasz,Pcim,25627,Nie,0,Tak,kot,kamienica
+Beata,Gdynia,10827,Tak,3,Nie,brak,kamienica
+Sylwia,Zielona Góra,20543,Tak,1,Tak,kot,blok
+Ewa,Pcim,17955,Tak,1,Tak,pies,dom
+Klaudia,Łódź,17990,Nie,0,Tak,małpa,dom
+Anna,Wrocław,20347,Tak,3,Nie,brak,kamienica
+Jan,Wrocław,8319,Nie,0,Nie,brak,kamienica
+Ewa,Gdańsk,24606,Tak,1,Tak,małpa,dom
+Anna,Wrocław,10311,Nie,0,Nie,brak,kamienica
+Ewa,Gdynia,23149,Tak,4,Nie,brak,dom
+Ela,Legnica,17824,Nie,0,Tak,małpa,blok
+Klaudia,Łódź,18842,Tak,3,Tak,słoń,kamienica
+Ola,Gdańsk,16101,Tak,2,Tak,kot,blok
+Ola,Orłowo,14932,Tak,2,Nie,brak,kamienica
+Tomasz,Gdynia,13979,Nie,0,Tak,pies,kamienica
+Ela,Zielona Góra,9517,Nie,0,Tak,kot,blok
+Ewa,Legnica,6649,Tak,2,Nie,brak,blok
+Magda,Warszawa,11896,Nie,0,Nie,brak,kamienica
+Magda,Pcim,22152,Nie,0,Nie,brak,blok
+Ola,Łódź,22765,Nie,0,Nie,brak,dom
+Julian,Kobyla Góra,18480,Nie,0,Tak,słoń,dom
+Jurek,Gdynia,24204,Nie,0,Nie,brak,blok
+Magda,Pcim,9658,Tak,1,Nie,brak,dom
+Tomasz,Adamczycha,14377,Nie,0,Nie,brak,dom
+Jan,Pcim,14329,Tak,4,Tak,małpa,dom
+Beata,Zielona Góra,20423,Nie,0,Nie,brak,kamienica
+Ela,Pcim,12831,Nie,0,Nie,brak,dom
+Beata,Orłowo,25849,Nie,0,Tak,kot,dom
+Anna,Orłowo,15157,Tak,1,Nie,brak,blok
+Agata,Ełk,21895,Nie,0,Tak,pies,dom
+Magda,Wrocław,12359,Nie,0,Nie,brak,kamienica
+Julian,Legnica,9818,Nie,0,Nie,brak,kamienica
+Anna,Wrocław,10247,Nie,0,Nie,brak,blok
+Magda,Gdynia,8226,Tak,2,Nie,brak,kamienica
+Jola,Wrocław,20612,Tak,4,Nie,brak,kamienica
+Anna,Kobyla Góra,11457,Nie,0,Tak,kot,dom
+Anna,Kobyla Góra,20385,Nie,0,Tak,słoń,dom
+Agata,Gdynia,8676,Tak,3,Tak,małpa,kamienica
+Tomasz,Gdynia,16272,Tak,2,Nie,brak,blok
+Julian,Łódź,17184,Tak,3,Nie,brak,blok
+Klaudia,Wrocław,7927,Nie,0,Nie,brak,dom
+Sylwia,Kobyla Góra,23822,Nie,0,Nie,brak,kamienica
+Julian,Gdańsk,23565,Nie,0,Tak,słoń,dom
+Jan,Zielona Góra,15314,Tak,1,Nie,brak,blok
+Anna,Gdańsk,15628,Tak,1,Nie,brak,kamienica
+Julian,Orłowo,10961,Nie,0,Nie,brak,dom
+Antek,Łódź,11504,Tak,2,Tak,kot,dom
+Sylwia,Gdańsk,17645,Nie,0,Nie,brak,blok
+Jan,Łódź,22470,Nie,0,Tak,małpa,dom
+Antek,Adamczycha,13147,Tak,1,Nie,brak,blok
+Agata,Kobyla Góra,9776,Nie,0,Tak,małpa,blok
+Antek,Zielona Góra,12385,Tak,1,Nie,brak,kamienica
+Jurek,Wrocław,10350,Nie,0,Tak,kot,kamienica
+Sylwia,Zielona Góra,13557,Tak,4,Tak,kot,dom
+Beata,Łódź,21988,Nie,0,Nie,brak,blok
+Ewa,Łódź,6661,Nie,0,Nie,brak,blok
+Antek,Ełk,17625,Nie,0,Nie,brak,kamienica
+Klaudia,Ełk,23954,Tak,1,Tak,małpa,kamienica
+Agata,Legnica,24552,Tak,3,Tak,pies,blok
+Beata,Wrocław,17888,Tak,2,Tak,małpa,kamienica
+Agata,Adamczycha,21115,Nie,0,Tak,pies,dom
+Agata,Legnica,23876,Nie,0,Nie,brak,blok
+Anna,Gdynia,10052,Tak,1,Tak,małpa,kamienica
+Agata,Orłowo,8625,Nie,0,Nie,brak,dom
+Antek,Kobyla Góra,7954,Nie,0,Nie,brak,blok
+Ewa,Warszawa,15934,Tak,3,Nie,brak,dom
+Jurek,Wrocław,18846,Nie,0,Tak,kot,dom
+Agata,Warszawa,21484,Nie,0,Tak,kot,blok
+Agata,Gdynia,23025,Tak,2,Tak,pies,dom
+Julian,Wrocław,19260,Tak,1,Nie,brak,kamienica
+Jola,Adamczycha,19216,Tak,4,Nie,brak,kamienica
+Klaudia,Zielona Góra,24638,Tak,1,Tak,pies,kamienica
+Ela,Legnica,8216,Tak,1,Nie,brak,dom
+Beata,Łódź,9906,Nie,0,Nie,brak,kamienica
+Jurek,Ełk,16188,Tak,3,Nie,brak,dom
+Magda,Legnica,8230,Tak,2,Tak,małpa,kamienica
+Jola,Warszawa,20544,Nie,0,Tak,małpa,blok
+Beata,Wrocław,21064,Tak,4,Tak,pies,dom
+Ela,Pcim,22752,Nie,0,Tak,pies,dom
+Ewa,Kobyla Góra,17089,Nie,0,Tak,kot,kamienica
+Jan,Orłowo,10005,Nie,0,Tak,małpa,blok
+Jurek,Zielona Góra,23865,Nie,0,Nie,brak,kamienica
+Jurek,Łódź,25060,Tak,1,Nie,brak,kamienica
+Ela,Ełk,11762,Tak,4,Nie,brak,blok
+Tomasz,Warszawa,10028,Tak,1,Tak,pies,blok
+Jola,Kobyla Góra,19976,Tak,4,Tak,pies,kamienica
+Klaudia,Ełk,22277,Tak,1,Nie,brak,blok
+Ola,Gdynia,7615,Tak,4,Nie,brak,kamienica
+Klaudia,Łódź,9868,Nie,0,Nie,brak,dom
+Antek,Kobyla Góra,22777,Tak,1,Tak,pies,kamienica
+Anna,Ełk,10814,Nie,0,Nie,brak,dom
+Tomasz,Zielona Góra,15765,Nie,0,Nie,brak,kamienica
+Agata,Wrocław,11195,Tak,1,Tak,pies,blok
+Agata,Gdynia,11107,Tak,2,Nie,brak,dom
+Antek,Adamczycha,16372,Nie,0,Nie,brak,blok
+Antek,Orłowo,13188,Nie,0,Tak,małpa,dom
+Julian,Warszawa,17138,Nie,0,Tak,pies,dom
+Beata,Gdańsk,22803,Nie,0,Nie,brak,kamienica
+Julian,Ełk,15107,Nie,0,Nie,brak,kamienica
+Ela,Ełk,8384,Nie,0,Nie,brak,kamienica
+Jan,Pcim,14011,Nie,0,Tak,pies,kamienica
+Klaudia,Gdańsk,12232,Tak,1,Tak,pies,blok
+Jola,Zielona Góra,23849,Nie,0,Nie,brak,kamienica
+Klaudia,Warszawa,14793,Nie,0,Tak,słoń,kamienica
+Antek,Łódź,9901,Nie,0,Tak,kot,dom
+Klaudia,Warszawa,15722,Nie,0,Nie,brak,blok
+Beata,Ełk,23281,Tak,4,Nie,brak,blok
+Jola,Zielona Góra,8861,Tak,1,Nie,brak,dom
+Ela,Warszawa,22268,Nie,0,Tak,kot,dom
+Jan,Wrocław,11325,Nie,0,Tak,słoń,kamienica
+Tomasz,Legnica,25192,Tak,4,Nie,brak,blok
+Sylwia,Zielona Góra,24826,Nie,0,Tak,pies,kamienica
+Julian,Pcim,10852,Tak,2,Nie,brak,dom
+Magda,Adamczycha,11409,Nie,0,Tak,pies,kamienica
+Ela,Adamczycha,25629,Nie,0,Nie,brak,blok
+Agata,Kobyla Góra,16863,Tak,3,Nie,brak,kamienica
+Ola,Adamczycha,24268,Tak,2,Nie,brak,blok
+Jurek,Pcim,7149,Nie,0,Tak,pies,kamienica
+Julian,Kobyla Góra,6729,Nie,0,Nie,brak,kamienica
+Anna,Kobyla Góra,8461,Nie,0,Tak,słoń,blok
+Jurek,Łódź,7289,Nie,0,Nie,brak,blok
+Sylwia,Legnica,24699,Tak,4,Tak,pies,blok
+Julian,Gdańsk,14472,Nie,0,Nie,brak,kamienica
+Ela,Gdynia,12707,Tak,1,Tak,małpa,kamienica
+Klaudia,Łódź,24547,Tak,4,Nie,brak,kamienica
+Jurek,Orłowo,19450,Nie,0,Tak,kot,dom
+Antek,Ełk,6792,Nie,0,Nie,brak,kamienica
+Klaudia,Legnica,22119,Nie,0,Nie,brak,blok
+Jan,Legnica,23677,Nie,0,Tak,pies,blok
+Ela,Legnica,15291,Tak,1,Nie,brak,blok
+Antek,Warszawa,15699,Nie,0,Nie,brak,kamienica
+Klaudia,Orłowo,21625,Nie,0,Tak,pies,blok
+Antek,Łódź,13824,Tak,4,Tak,słoń,blok
+Magda,Orłowo,19106,Tak,3,Tak,kot,dom
+Julian,Ełk,15546,Tak,4,Tak,słoń,dom
+Jan,Gdańsk,20661,Tak,3,Tak,słoń,blok
+Ela,Wrocław,8191,Tak,1,Nie,brak,dom
+Ela,Orłowo,7763,Nie,0,Tak,słoń,dom
+Agata,Legnica,10979,Tak,1,Nie,brak,blok
+Beata,Gdańsk,20204,Nie,0,Tak,kot,kamienica
+Magda,Wrocław,19419,Tak,1,Nie,brak,kamienica
+Jola,Ełk,21667,Nie,0,Nie,brak,blok
+Beata,Pcim,21018,Nie,0,Tak,małpa,kamienica
+Jurek,Wrocław,12485,Nie,0,Nie,brak,dom
+Jurek,Pcim,16947,Nie,0,Nie,brak,blok
+Sylwia,Ełk,25679,Tak,2,Nie,brak,kamienica
+Ela,Adamczycha,10507,Nie,0,Nie,brak,kamienica
+Julian,Wrocław,16042,Tak,2,Tak,małpa,dom
+Tomasz,Pcim,16263,Nie,0,Tak,kot,blok
+Ela,Ełk,17117,Nie,0,Tak,małpa,blok
+Klaudia,Gdynia,18865,Nie,0,Nie,brak,dom
+Klaudia,Legnica,10084,Nie,0,Nie,brak,blok
+Sylwia,Warszawa,17941,Tak,1,Tak,słoń,blok
+Anna,Wrocław,22674,Tak,1,Tak,kot,dom
+Antek,Kobyla Góra,24204,Nie,0,Tak,małpa,dom
+Jurek,Orłowo,9279,Nie,0,Tak,pies,kamienica
+Ewa,Pcim,16256,Nie,0,Tak,pies,blok
+Sylwia,Ełk,13721,Nie,0,Nie,brak,dom
+Ela,Łódź,21085,Tak,2,Nie,brak,kamienica
+Anna,Zielona Góra,9814,Tak,3,Tak,słoń,blok
+Anna,Pcim,14564,Nie,0,Nie,brak,kamienica
+Jola,Wrocław,20532,Nie,0,Tak,pies,dom
+Ola,Pcim,13923,Nie,0,Tak,słoń,blok
+Jan,Gdańsk,10416,Tak,3,Tak,kot,kamienica
+Jurek,Łódź,8972,Nie,0,Nie,brak,dom
+Ela,Wrocław,7458,Tak,1,Tak,kot,dom
+Jan,Warszawa,15309,Tak,4,Tak,słoń,dom
+Magda,Gdańsk,18387,Nie,0,Nie,brak,dom
+Tomasz,Łódź,19501,Tak,2,Nie,brak,dom
+Julian,Orłowo,13935,Tak,3,Nie,brak,dom
+Magda,Kobyla Góra,11033,Tak,1,Tak,małpa,dom
+Ewa,Orłowo,16529,Tak,3,Nie,brak,kamienica
+Julian,Pcim,24729,Nie,0,Tak,małpa,blok
+Anna,Zielona Góra,16047,Tak,2,Tak,kot,blok
+Antek,Pcim,12020,Nie,0,Nie,brak,kamienica
+Antek,Adamczycha,11021,Tak,3,Tak,kot,dom
+Klaudia,Ełk,22127,Nie,0,Nie,brak,blok
+Magda,Łódź,22666,Nie,0,Nie,brak,dom
+Klaudia,Pcim,21096,Tak,4,Tak,pies,blok
+Jan,Adamczycha,22143,Nie,0,Nie,brak,dom
+Julian,Orłowo,15910,Tak,2,Tak,małpa,kamienica
+Anna,Ełk,22097,Nie,0,Tak,słoń,dom
+Sylwia,Zielona Góra,6559,Nie,0,Nie,brak,blok
+Jola,Adamczycha,8750,Tak,3,Nie,brak,dom
+Agata,Orłowo,18685,Nie,0,Tak,małpa,blok
+Julian,Zielona Góra,22362,Tak,3,Tak,pies,dom
+Jan,Wrocław,20782,Tak,1,Tak,kot,blok
+Ewa,Pcim,13688,Tak,4,Tak,kot,blok
+Jan,Gdańsk,12849,Nie,0,Tak,kot,blok
+Anna,Orłowo,24915,Tak,4,Nie,brak,dom
+Ela,Kobyla Góra,17363,Tak,1,Tak,pies,blok
+Jola,Gdańsk,7394,Tak,3,Tak,kot,dom
+Klaudia,Ełk,7456,Nie,0,Nie,brak,kamienica
+Klaudia,Gdańsk,15019,Nie,0,Nie,brak,kamienica
+Ola,Orłowo,22016,Nie,0,Nie,brak,blok
+Sylwia,Pcim,25379,Nie,0,Tak,słoń,dom
+Anna,Ełk,21220,Tak,1,Tak,pies,blok
+Klaudia,Zielona Góra,15163,Tak,3,Tak,małpa,dom
+Jola,Ełk,23386,Nie,0,Tak,małpa,dom
+Beata,Ełk,6067,Nie,0,Nie,brak,kamienica
+Jurek,Legnica,9322,Nie,0,Tak,słoń,dom
+Beata,Ełk,19920,Tak,2,Tak,słoń,dom
+Jurek,Warszawa,10188,Nie,0,Tak,małpa,blok
+Antek,Ełk,14466,Nie,0,Tak,kot,blok
+Jola,Ełk,17785,Tak,1,Tak,słoń,dom
+Ola,Adamczycha,19013,Tak,3,Tak,małpa,kamienica
+Julian,Pcim,17791,Tak,4,Tak,kot,blok
+Klaudia,Wrocław,7282,Tak,2,Nie,brak,blok
+Sylwia,Adamczycha,18926,Tak,1,Tak,pies,kamienica
+Ewa,Orłowo,7476,Nie,0,Tak,małpa,blok
+Agata,Kobyla Góra,24486,Tak,3,Tak,kot,dom
+Magda,Zielona Góra,24209,Nie,0,Nie,brak,dom
+Jan,Legnica,12178,Nie,0,Tak,kot,dom
+Klaudia,Warszawa,17679,Tak,3,Tak,kot,blok
+Klaudia,Pcim,23928,Nie,0,Nie,brak,blok
+Beata,Kobyla Góra,15256,Nie,0,Nie,brak,blok
+Sylwia,Zielona Góra,8209,Nie,0,Tak,małpa,blok
+Jan,Łódź,18459,Nie,0,Nie,brak,dom
+Ola,Legnica,22323,Tak,1,Nie,brak,kamienica
+Ola,Gdańsk,20557,Tak,2,Nie,brak,dom
+Jan,Legnica,23817,Nie,0,Nie,brak,blok
+Klaudia,Gdynia,14965,Tak,3,Nie,brak,dom
+Ewa,Kobyla Góra,25822,Nie,0,Nie,brak,kamienica
+Anna,Gdynia,9693,Nie,0,Nie,brak,dom
+Jan,Gdynia,10016,Nie,0,Tak,kot,kamienica
+Magda,Pcim,8968,Tak,3,Tak,kot,blok
+Klaudia,Legnica,18707,Nie,0,Tak,pies,dom
+Jola,Pcim,18028,Tak,1,Nie,brak,dom
+Ola,Wrocław,16911,Tak,1,Nie,brak,dom
+Klaudia,Pcim,24079,Nie,0,Tak,małpa,dom
+Ewa,Zielona Góra,17780,Nie,0,Tak,małpa,blok
+Ola,Kobyla Góra,10527,Tak,4,Tak,słoń,kamienica
+Jurek,Warszawa,12322,Nie,0,Tak,kot,kamienica
+Sylwia,Wrocław,25541,Tak,2,Nie,brak,dom
+Magda,Warszawa,22482,Tak,2,Tak,słoń,blok
+Ola,Legnica,18952,Nie,0,Tak,kot,kamienica
+Beata,Gdańsk,22186,Nie,0,Tak,pies,kamienica
+Ela,Ełk,7119,Nie,0,Nie,brak,kamienica
+Jan,Zielona Góra,7284,Tak,1,Tak,małpa,kamienica
+Ola,Ełk,7075,Nie,0,Nie,brak,kamienica
+Magda,Łódź,10290,Nie,0,Tak,pies,kamienica
+Antek,Gdynia,16713,Nie,0,Tak,małpa,blok
+Ewa,Kobyla Góra,21323,Nie,0,Tak,słoń,dom
+Sylwia,Warszawa,22817,Nie,0,Nie,brak,kamienica
+Anna,Łódź,20774,Tak,3,Nie,brak,blok
+Sylwia,Adamczycha,10680,Tak,4,Nie,brak,blok
+Tomasz,Pcim,25665,Nie,0,Nie,brak,dom
+Beata,Gdynia,22692,Nie,0,Tak,kot,dom
+Beata,Warszawa,10380,Nie,0,Tak,kot,kamienica
+Sylwia,Wrocław,16546,Tak,3,Tak,kot,dom
+Klaudia,Kobyla Góra,16237,Tak,2,Nie,brak,dom
+Tomasz,Ełk,11124,Tak,2,Nie,brak,blok
+Jola,Zielona Góra,18676,Nie,0,Tak,słoń,blok
+Ela,Ełk,15605,Nie,0,Nie,brak,blok
+Sylwia,Pcim,25255,Tak,2,Nie,brak,kamienica
+Ola,Orłowo,16822,Tak,2,Tak,kot,kamienica
+Sylwia,Łódź,22423,Tak,2,Tak,kot,dom
+Beata,Ełk,22502,Tak,2,Nie,brak,dom
+Beata,Kobyla Góra,23243,Tak,4,Tak,małpa,kamienica
+Anna,Warszawa,21851,Tak,2,Nie,brak,kamienica
+Jurek,Ełk,24245,Nie,0,Nie,brak,blok
+Beata,Gdańsk,15623,Tak,2,Nie,brak,kamienica
+Ewa,Wrocław,21361,Tak,2,Nie,brak,kamienica
+Jola,Adamczycha,6345,Tak,3,Nie,brak,dom
+Ela,Orłowo,17870,Tak,2,Nie,brak,dom
+Sylwia,Gdynia,16654,Nie,0,Tak,pies,blok
+Antek,Kobyla Góra,9391,Tak,2,Nie,brak,kamienica
+Ola,Orłowo,19449,Tak,1,Tak,słoń,dom
+Ela,Gdańsk,24926,Tak,1,Tak,słoń,kamienica
+Jola,Ełk,15881,Tak,1,Nie,brak,kamienica
+Jurek,Warszawa,6673,Nie,0,Nie,brak,blok
+Julian,Ełk,25359,Tak,4,Tak,słoń,kamienica
+Ewa,Wrocław,21351,Nie,0,Nie,brak,blok
+Jurek,Zielona Góra,14500,Tak,4,Tak,małpa,dom
+Sylwia,Pcim,24755,Nie,0,Tak,pies,dom
+Julian,Ełk,24727,Nie,0,Nie,brak,dom
+Jola,Łódź,13256,Nie,0,Tak,pies,dom
+Anna,Warszawa,7482,Tak,1,Tak,słoń,blok
+Antek,Legnica,24920,Tak,3,Nie,brak,blok
+Klaudia,Adamczycha,21543,Nie,0,Tak,kot,dom
+Ela,Adamczycha,11387,Nie,0,Nie,brak,dom
+Jan,Pcim,22978,Nie,0,Nie,brak,dom
+Agata,Wrocław,18258,Nie,0,Nie,brak,blok
+Ela,Warszawa,10642,Nie,0,Tak,słoń,dom
+Anna,Warszawa,13736,Nie,0,Tak,małpa,blok
+Antek,Gdańsk,6834,Nie,0,Nie,brak,kamienica
+Agata,Gdynia,24561,Nie,0,Nie,brak,dom
+Ewa,Legnica,9401,Nie,0,Tak,pies,blok
+Jola,Łódź,12051,Tak,4,Tak,pies,blok
+Magda,Wrocław,6420,Tak,4,Nie,brak,blok
+Ola,Kobyla Góra,20251,Tak,2,Nie,brak,kamienica
+Jola,Ełk,16079,Tak,1,Tak,słoń,dom
+Ewa,Zielona Góra,19522,Nie,0,Tak,pies,blok
+Agata,Zielona Góra,10762,Nie,0,Tak,małpa,dom
+Julian,Gdynia,19331,Tak,1,Nie,brak,blok
+Antek,Łódź,12481,Nie,0,Nie,brak,dom
+Ewa,Orłowo,19247,Tak,2,Nie,brak,kamienica
+Klaudia,Zielona Góra,22243,Nie,0,Tak,kot,blok
+Agata,Zielona Góra,25836,Nie,0,Tak,pies,blok
+Beata,Legnica,21253,Tak,2,Tak,małpa,kamienica
+Ela,Łódź,7840,Tak,1,Tak,pies,dom
+Anna,Ełk,10324,Nie,0,Nie,brak,blok
+Magda,Warszawa,22796,Nie,0,Nie,brak,kamienica
+Ewa,Wrocław,12594,Nie,0,Tak,pies,blok
+Anna,Orłowo,24179,Tak,1,Nie,brak,blok
+Julian,Łódź,16451,Nie,0,Nie,brak,blok
+Klaudia,Pcim,21475,Nie,0,Tak,kot,dom
+Ola,Adamczycha,23018,Nie,0,Nie,brak,kamienica
+Julian,Zielona Góra,18147,Tak,3,Tak,słoń,kamienica
+Jurek,Kobyla Góra,16081,Tak,1,Nie,brak,kamienica
+Magda,Gdańsk,11474,Nie,0,Tak,małpa,kamienica
+Magda,Wrocław,20862,Nie,0,Nie,brak,blok
+Magda,Wrocław,23269,Nie,0,Nie,brak,dom
+Jurek,Gdańsk,17017,Tak,3,Nie,brak,kamienica
+Beata,Kobyla Góra,23700,Nie,0,Tak,słoń,dom
+Jola,Warszawa,17409,Tak,3,Tak,słoń,kamienica
+Ewa,Ełk,14462,Tak,2,Nie,brak,kamienica
+Antek,Kobyla Góra,25790,Nie,0,Nie,brak,blok
+Jurek,Gdynia,21665,Tak,3,Tak,małpa,blok
+Klaudia,Ełk,12100,Tak,4,Nie,brak,blok
+Jola,Kobyla Góra,13877,Tak,2,Nie,brak,dom
+Agata,Adamczycha,14942,Nie,0,Nie,brak,blok
+Jola,Łódź,24087,Tak,3,Tak,kot,blok
+Jurek,Pcim,15581,Nie,0,Tak,kot,kamienica
+Sylwia,Gdańsk,13168,Tak,3,Tak,kot,kamienica
+Antek,Warszawa,15552,Tak,2,Nie,brak,blok
+Magda,Wrocław,15270,Tak,1,Tak,pies,blok
+Klaudia,Warszawa,12592,Nie,0,Tak,pies,dom
+Ela,Ełk,21823,Nie,0,Nie,brak,dom
+Julian,Gdańsk,16188,Nie,0,Nie,brak,kamienica
+Ela,Ełk,21522,Nie,0,Nie,brak,dom
+Jurek,Ełk,17229,Tak,3,Nie,brak,blok
+Ewa,Orłowo,24166,Tak,2,Tak,słoń,blok
+Jola,Adamczycha,14760,Nie,0,Tak,małpa,kamienica
+Ewa,Adamczycha,15230,Nie,0,Tak,słoń,blok
+Magda,Kobyla Góra,9793,Tak,4,Nie,brak,blok
+Ela,Gdańsk,24591,Tak,1,Tak,słoń,blok
+Julian,Legnica,23599,Tak,3,Nie,brak,blok
+Jan,Orłowo,18241,Nie,0,Tak,małpa,dom
+Beata,Gdańsk,18728,Tak,3,Nie,brak,dom
+Ewa,Warszawa,17109,Nie,0,Nie,brak,dom
+Jurek,Gdynia,10599,Tak,4,Nie,brak,dom
+Ewa,Gdańsk,15317,Tak,4,Nie,brak,dom
+Jurek,Orłowo,7178,Nie,0,Nie,brak,kamienica
+Magda,Gdańsk,15225,Nie,0,Nie,brak,blok
+Klaudia,Gdańsk,8389,Tak,2,Tak,pies,kamienica
+Jan,Kobyla Góra,17149,Nie,0,Tak,słoń,blok
+Agata,Legnica,20295,Nie,0,Tak,kot,blok
+Agata,Orłowo,14203,Tak,4,Tak,kot,blok
+Ela,Adamczycha,21498,Nie,0,Nie,brak,kamienica
+Ewa,Pcim,12811,Tak,3,Nie,brak,blok
+Julian,Legnica,12421,Nie,0,Nie,brak,blok
+Sylwia,Legnica,23448,Tak,4,Tak,kot,dom
+Anna,Gdynia,14684,Tak,2,Nie,brak,dom
+Ela,Pcim,24216,Nie,0,Tak,słoń,blok
+Ela,Legnica,14700,Nie,0,Nie,brak,dom
+Beata,Warszawa,10298,Nie,0,Nie,brak,kamienica
+Ewa,Ełk,9379,Nie,0,Nie,brak,blok
+Ola,Adamczycha,25029,Tak,4,Tak,małpa,kamienica
+Agata,Legnica,13640,Tak,2,Nie,brak,dom
+Agata,Adamczycha,13744,Nie,0,Nie,brak,dom
+Jurek,Kobyla Góra,7463,Nie,0,Nie,brak,kamienica
+Jola,Gdańsk,23201,Tak,4,Nie,brak,blok
+Tomasz,Orłowo,13194,Nie,0,Tak,kot,dom
+Tomasz,Kobyla Góra,13429,Nie,0,Nie,brak,dom
+Tomasz,Adamczycha,7520,Nie,0,Tak,pies,dom
+Jurek,Legnica,9083,Tak,3,Tak,małpa,kamienica
+Beata,Pcim,19343,Nie,0,Nie,brak,kamienica
+Julian,Adamczycha,16623,Nie,0,Nie,brak,dom
+Tomasz,Legnica,21279,Nie,0,Nie,brak,blok
+Ola,Zielona Góra,9094,Nie,0,Nie,brak,kamienica
+Klaudia,Łódź,10304,Nie,0,Tak,kot,blok
+Ola,Gdynia,5969,Tak,2,Tak,małpa,kamienica
+Magda,Warszawa,23833,Tak,2,Tak,słoń,kamienica
+Jan,Zielona Góra,10975,Tak,1,Tak,słoń,blok
+Jurek,Warszawa,19133,Tak,1,Nie,brak,blok
+Antek,Wrocław,21387,Tak,1,Nie,brak,blok
+Ela,Wrocław,21445,Tak,1,Nie,brak,kamienica
+Julian,Kobyla Góra,12335,Nie,0,Tak,kot,blok
+Jurek,Gdynia,15212,Nie,0,Nie,brak,blok
+Jurek,Orłowo,16324,Tak,2,Tak,pies,blok
+Agata,Warszawa,15152,Tak,3,Nie,brak,blok
+Jola,Wrocław,7738,Nie,0,Nie,brak,blok
+Antek,Gdynia,8731,Nie,0,Nie,brak,blok
+Sylwia,Gdańsk,24613,Tak,2,Nie,brak,blok
+Ola,Orłowo,13409,Nie,0,Nie,brak,kamienica
+Beata,Adamczycha,23335,Nie,0,Nie,brak,blok
+Jurek,Zielona Góra,7022,Tak,1,Nie,brak,kamienica
+Ela,Ełk,11536,Nie,0,Nie,brak,dom
+Beata,Gdynia,19493,Nie,0,Nie,brak,dom
+Ola,Pcim,11560,Tak,3,Tak,pies,kamienica
+Beata,Wrocław,6990,Tak,3,Nie,brak,blok
+Jan,Ełk,18808,Nie,0,Tak,słoń,kamienica
+Anna,Adamczycha,22032,Nie,0,Nie,brak,dom
+Anna,Adamczycha,11905,Tak,4,Nie,brak,kamienica
+Beata,Wrocław,15285,Tak,1,Nie,brak,dom
+Tomasz,Łódź,7027,Tak,4,Nie,brak,kamienica
+Agata,Łódź,6103,Nie,0,Tak,kot,kamienica
+Sylwia,Ełk,15577,Nie,0,Nie,brak,kamienica
+Ola,Warszawa,24410,Tak,3,Tak,słoń,kamienica
+Antek,Wrocław,25551,Tak,3,Nie,brak,kamienica
+Tomasz,Zielona Góra,9316,Nie,0,Nie,brak,dom
+Ewa,Wrocław,16778,Tak,1,Tak,kot,kamienica
+Klaudia,Warszawa,15124,Nie,0,Tak,słoń,kamienica
+Jurek,Warszawa,20688,Nie,0,Nie,brak,kamienica
+Agata,Kobyla Góra,23602,Nie,0,Tak,małpa,blok
+Beata,Orłowo,22980,Tak,2,Tak,pies,dom
+Magda,Legnica,21984,Tak,1,Nie,brak,kamienica
+Magda,Warszawa,10197,Nie,0,Tak,słoń,dom
+Ewa,Legnica,22322,Tak,2,Tak,kot,kamienica
+Tomasz,Pcim,21136,Tak,4,Tak,małpa,blok
+Ewa,Orłowo,14740,Nie,0,Nie,brak,dom
+Beata,Ełk,12118,Nie,0,Nie,brak,blok
+Jan,Orłowo,9491,Nie,0,Tak,małpa,blok
+Jurek,Gdynia,16635,Tak,2,Tak,małpa,kamienica
+Magda,Zielona Góra,11124,Nie,0,Tak,słoń,dom
+Anna,Kobyla Góra,20837,Tak,2,Nie,brak,dom
+Klaudia,Łódź,14230,Nie,0,Tak,pies,dom
+Ola,Orłowo,11901,Tak,4,Nie,brak,dom
+Sylwia,Gdynia,6261,Tak,1,Tak,słoń,kamienica
+Ola,Pcim,16846,Tak,2,Nie,brak,kamienica
+Klaudia,Wrocław,15467,Nie,0,Nie,brak,blok
+Antek,Gdynia,24405,Nie,0,Tak,pies,kamienica
+Ola,Orłowo,12129,Tak,3,Nie,brak,dom
+Ewa,Łódź,11550,Nie,0,Tak,małpa,kamienica
+Beata,Warszawa,25819,Tak,2,Tak,kot,blok
+Jan,Zielona Góra,19087,Nie,0,Nie,brak,dom
+Ola,Warszawa,19814,Tak,2,Nie,brak,dom
+Magda,Ełk,22684,Tak,4,Tak,pies,blok
+Julian,Ełk,16545,Tak,4,Tak,małpa,blok
+Tomasz,Gdynia,8642,Tak,2,Tak,słoń,dom
+Anna,Zielona Góra,18934,Tak,3,Tak,pies,kamienica
+Julian,Gdańsk,8925,Nie,0,Tak,pies,kamienica
+Beata,Łódź,11854,Tak,4,Tak,małpa,dom
+Klaudia,Wrocław,10407,Nie,0,Nie,brak,dom
+Sylwia,Gdańsk,21445,Tak,1,Nie,brak,dom
+Antek,Łódź,16403,Nie,0,Tak,małpa,kamienica
+Tomasz,Kobyla Góra,13928,Tak,4,Nie,brak,kamienica
+Jan,Wrocław,6023,Nie,0,Nie,brak,dom
+Ola,Łódź,14345,Tak,2,Nie,brak,blok
+Tomasz,Łódź,18368,Nie,0,Nie,brak,dom
+Jurek,Zielona Góra,13517,Nie,0,Tak,pies,dom
+Julian,Warszawa,20438,Tak,4,Nie,brak,kamienica
+Julian,Kobyla Góra,14548,Nie,0,Nie,brak,dom
+Agata,Łódź,16601,Nie,0,Tak,słoń,kamienica
+Jola,Kobyla Góra,15694,Tak,1,Nie,brak,blok
+Ola,Ełk,24886,Tak,3,Tak,słoń,dom
+Klaudia,Pcim,24572,Tak,4,Tak,małpa,blok
+Tomasz,Kobyla Góra,6174,Nie,0,Nie,brak,dom
+Agata,Legnica,14370,Nie,0,Tak,pies,blok
+Sylwia,Ełk,17581,Tak,1,Tak,kot,kamienica
+Magda,Wrocław,13543,Tak,2,Tak,słoń,dom
+Klaudia,Warszawa,7835,Tak,1,Tak,słoń,dom
+Julian,Warszawa,9673,Nie,0,Nie,brak,blok
+Ewa,Warszawa,21050,Tak,3,Tak,pies,kamienica
+Sylwia,Warszawa,15853,Tak,2,Nie,brak,blok
+Klaudia,Łódź,11033,Tak,4,Tak,małpa,blok
+Julian,Warszawa,19084,Nie,0,Nie,brak,kamienica
+Tomasz,Zielona Góra,22266,Tak,3,Tak,pies,blok
+Klaudia,Zielona Góra,15990,Nie,0,Tak,kot,blok
+Jan,Kobyla Góra,9647,Tak,1,Tak,słoń,dom
+Magda,Legnica,15467,Tak,2,Tak,kot,blok
+Sylwia,Gdynia,17843,Nie,0,Tak,małpa,dom
+Tomasz,Adamczycha,13036,Nie,0,Nie,brak,kamienica
+Tomasz,Orłowo,12980,Tak,2,Tak,słoń,blok
+Ela,Gdynia,10176,Nie,0,Tak,słoń,kamienica
+Ola,Gdynia,21469,Nie,0,Nie,brak,dom
+Beata,Kobyla Góra,10819,Nie,0,Nie,brak,dom
+Sylwia,Ełk,20708,Nie,0,Nie,brak,dom
+Jurek,Warszawa,25648,Nie,0,Tak,kot,blok
+Ela,Łódź,18042,Nie,0,Nie,brak,dom
+Ola,Kobyla Góra,19426,Nie,0,Nie,brak,dom
+Ola,Ełk,23797,Nie,0,Nie,brak,blok
+Julian,Łódź,21228,Tak,1,Nie,brak,blok
+Tomasz,Zielona Góra,23413,Tak,2,Nie,brak,blok
+Jurek,Adamczycha,12956,Tak,3,Tak,kot,dom
+Beata,Pcim,13908,Nie,0,Tak,małpa,dom
+Ela,Orłowo,25323,Tak,1,Tak,słoń,blok
+Tomasz,Pcim,8482,Nie,0,Tak,kot,blok
+Antek,Kobyla Góra,23019,Nie,0,Nie,brak,kamienica
+Magda,Warszawa,20439,Tak,2,Nie,brak,kamienica
+Ela,Orłowo,23107,Nie,0,Tak,słoń,blok
+Beata,Gdynia,17654,Tak,1,Nie,brak,blok
+Ela,Gdańsk,8359,Nie,0,Tak,słoń,kamienica
+Jola,Legnica,24286,Tak,3,Tak,słoń,blok
+Jola,Ełk,9476,Tak,1,Nie,brak,dom
+Klaudia,Wrocław,7823,Nie,0,Nie,brak,dom
+Julian,Gdańsk,23745,Nie,0,Tak,kot,dom
+Antek,Warszawa,22363,Tak,4,Tak,małpa,blok
+Jan,Kobyla Góra,12424,Tak,3,Tak,małpa,blok
+Jan,Gdynia,24566,Tak,2,Tak,słoń,kamienica
+Beata,Kobyla Góra,23385,Nie,0,Tak,kot,blok
+Ewa,Warszawa,10710,Nie,0,Nie,brak,blok
+Magda,Pcim,11191,Nie,0,Tak,kot,kamienica
+Jan,Orłowo,16551,Nie,0,Tak,słoń,blok
+Magda,Gdańsk,22850,Tak,4,Nie,brak,kamienica
+Beata,Łódź,20278,Tak,4,Nie,brak,blok
+Antek,Gdynia,9608,Tak,2,Nie,brak,blok
+Ewa,Orłowo,12530,Tak,4,Nie,brak,blok
+Ewa,Orłowo,24908,Tak,2,Tak,pies,blok
+Jola,Ełk,21817,Nie,0,Nie,brak,dom
+Julian,Ełk,8779,Nie,0,Tak,pies,dom
+Tomasz,Gdynia,22523,Nie,0,Nie,brak,blok
+Ewa,Adamczycha,20397,Nie,0,Nie,brak,dom
+Anna,Orłowo,7623,Tak,3,Nie,brak,kamienica
+Beata,Ełk,20658,Tak,3,Tak,małpa,dom
+Sylwia,Zielona Góra,10123,Nie,0,Tak,słoń,kamienica
+Ewa,Pcim,22618,Tak,2,Tak,małpa,kamienica
+Ewa,Adamczycha,19412,Tak,1,Tak,pies,kamienica
+Klaudia,Legnica,20768,Tak,2,Nie,brak,dom
+Ola,Pcim,24278,Tak,3,Tak,małpa,blok
+Agata,Zielona Góra,7691,Nie,0,Nie,brak,blok
+Magda,Pcim,24110,Tak,3,Tak,kot,dom
+Anna,Kobyla Góra,20951,Tak,3,Nie,brak,kamienica
+Sylwia,Kobyla Góra,15898,Tak,1,Nie,brak,dom
+Klaudia,Adamczycha,6513,Tak,3,Tak,pies,blok
+Ola,Legnica,18774,Nie,0,Tak,małpa,dom
+Agata,Legnica,14138,Tak,4,Tak,pies,dom
+Ewa,Orłowo,5898,Nie,0,Nie,brak,blok
+Tomasz,Ełk,12940,Nie,0,Tak,pies,blok
+Anna,Łódź,24750,Nie,0,Nie,brak,kamienica
+Jola,Warszawa,8193,Tak,4,Tak,małpa,kamienica
+Ela,Legnica,7284,Nie,0,Tak,kot,blok
+Ola,Zielona Góra,19683,Tak,4,Tak,pies,kamienica
+Ewa,Ełk,17089,Tak,3,Nie,brak,blok
+Sylwia,Adamczycha,7889,Nie,0,Nie,brak,dom
+Klaudia,Warszawa,23532,Tak,1,Nie,brak,kamienica
+Sylwia,Zielona Góra,7774,Nie,0,Nie,brak,blok
+Ewa,Gdynia,8061,Nie,0,Tak,małpa,dom
+Julian,Gdańsk,21268,Tak,3,Nie,brak,dom
+Magda,Łódź,6839,Tak,3,Tak,kot,blok
+Magda,Łódź,15207,Nie,0,Nie,brak,blok
+Julian,Wrocław,19197,Tak,1,Nie,brak,dom
+Ola,Kobyla Góra,11697,Tak,4,Tak,kot,dom
+Agata,Legnica,10237,Nie,0,Nie,brak,blok
+Klaudia,Kobyla Góra,19574,Nie,0,Nie,brak,blok
+Beata,Pcim,18070,Tak,2,Tak,kot,dom
+Tomasz,Zielona Góra,18333,Tak,3,Tak,słoń,dom
+Beata,Kobyla Góra,20497,Tak,2,Nie,brak,blok
+Ela,Orłowo,18169,Tak,1,Tak,małpa,blok
+Ewa,Orłowo,18109,Tak,1,Nie,brak,dom
+Tomasz,Warszawa,8429,Nie,0,Nie,brak,blok
+Anna,Adamczycha,23471,Nie,0,Nie,brak,blok
+Ewa,Legnica,10157,Nie,0,Tak,kot,blok
+Jola,Legnica,17195,Tak,2,Tak,pies,blok
+Jurek,Orłowo,9687,Nie,0,Tak,kot,kamienica
+Jurek,Adamczycha,11648,Tak,1,Nie,brak,kamienica
+Ola,Ełk,23404,Tak,4,Tak,słoń,dom
+Ewa,Warszawa,18679,Nie,0,Tak,słoń,kamienica
+Magda,Pcim,23129,Nie,0,Nie,brak,blok
+Jan,Wrocław,9972,Tak,2,Tak,kot,kamienica
+Sylwia,Ełk,13097,Tak,4,Tak,małpa,dom
+Tomasz,Łódź,5913,Nie,0,Tak,kot,dom
+Klaudia,Wrocław,6544,Tak,1,Tak,słoń,dom
+Jan,Orłowo,15576,Nie,0,Nie,brak,kamienica
+Agata,Wrocław,20971,Nie,0,Tak,słoń,kamienica
+Julian,Łódź,23640,Nie,0,Tak,słoń,kamienica
+Anna,Pcim,19697,Nie,0,Nie,brak,dom
+Klaudia,Gdańsk,23230,Tak,1,Nie,brak,blok
+Ewa,Gdynia,18228,Nie,0,Tak,kot,blok
+Agata,Warszawa,13325,Nie,0,Tak,słoń,dom
+Agata,Kobyla Góra,13910,Tak,2,Nie,brak,dom
+Jurek,Łódź,20893,Nie,0,Nie,brak,dom
+Anna,Warszawa,17142,Nie,0,Nie,brak,dom
+Antek,Pcim,10883,Nie,0,Tak,słoń,blok
+Jurek,Ełk,14832,Nie,0,Tak,kot,kamienica
+Ewa,Ełk,11976,Nie,0,Nie,brak,kamienica
+Jan,Orłowo,9497,Tak,1,Tak,kot,blok
+Sylwia,Wrocław,6855,Nie,0,Nie,brak,kamienica
+Tomasz,Gdynia,19537,Nie,0,Nie,brak,blok
+Jan,Ełk,6312,Tak,2,Nie,brak,kamienica
+Anna,Pcim,13686,Tak,4,Tak,małpa,blok
+Ela,Adamczycha,12552,Nie,0,Tak,pies,kamienica
+Ewa,Gdańsk,8004,Tak,1,Nie,brak,dom
+Jola,Łódź,9106,Nie,0,Tak,słoń,dom
+Beata,Orłowo,25262,Tak,4,Nie,brak,kamienica
+Tomasz,Adamczycha,6900,Tak,2,Nie,brak,blok
+Jola,Adamczycha,20428,Tak,2,Tak,kot,kamienica
+Jola,Gdańsk,25388,Tak,4,Nie,brak,kamienica
+Ola,Pcim,7395,Nie,0,Nie,brak,dom
+Klaudia,Gdańsk,13819,Nie,0,Tak,pies,blok
+Ewa,Legnica,7249,Tak,2,Tak,małpa,dom
+Ela,Pcim,18981,Tak,4,Nie,brak,kamienica
+Ola,Pcim,20183,Nie,0,Tak,słoń,dom
+Sylwia,Kobyla Góra,13478,Tak,2,Nie,brak,blok
+Ewa,Warszawa,23486,Nie,0,Nie,brak,kamienica
+Ela,Adamczycha,12919,Nie,0,Tak,pies,kamienica
+Sylwia,Wrocław,7649,Tak,3,Tak,pies,dom
+Antek,Zielona Góra,10391,Tak,2,Tak,małpa,blok
+Tomasz,Łódź,22311,Tak,2,Tak,małpa,blok
+Anna,Legnica,15278,Nie,0,Tak,pies,blok
+Magda,Legnica,13473,Tak,4,Tak,kot,blok
+Julian,Łódź,24677,Nie,0,Tak,słoń,blok
+Anna,Gdynia,16249,Nie,0,Tak,pies,kamienica
+Jola,Zielona Góra,24722,Nie,0,Nie,brak,kamienica
+Beata,Gdańsk,25392,Nie,0,Nie,brak,blok
+Jurek,Gdynia,16307,Tak,4,Tak,małpa,blok
+Antek,Gdynia,13562,Nie,0,Tak,pies,kamienica
+Ola,Ełk,15688,Nie,0,Nie,brak,kamienica
+Jurek,Kobyla Góra,10494,Nie,0,Tak,kot,blok
+Anna,Warszawa,22880,Tak,1,Tak,słoń,blok
+Ola,Łódź,13043,Nie,0,Nie,brak,kamienica
+Anna,Zielona Góra,19351,Nie,0,Nie,brak,dom
+Beata,Adamczycha,15646,Nie,0,Tak,słoń,dom
+Beata,Łódź,14816,Nie,0,Nie,brak,dom
+Sylwia,Adamczycha,7797,Tak,2,Nie,brak,kamienica
+Anna,Wrocław,24042,Tak,1,Tak,pies,kamienica
+Agata,Warszawa,25187,Nie,0,Tak,kot,kamienica
+Jan,Kobyla Góra,11538,Nie,0,Nie,brak,dom
+Beata,Orłowo,19798,Tak,3,Nie,brak,blok
+Jan,Łódź,24014,Tak,1,Tak,małpa,kamienica
+Tomasz,Orłowo,22040,Nie,0,Tak,małpa,kamienica
+Jurek,Łódź,7336,Nie,0,Nie,brak,kamienica

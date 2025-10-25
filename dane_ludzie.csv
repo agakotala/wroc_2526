@@ -1,0 +1,1001 @@
+﻿imie,miasto,dochód,ma_dzieci,liczba_dzieci,ma_zwierze,jakie_zwierze
+Jurek,Warszawa,19486,Nie,0,Nie,brak
+Antek,Orłowo,15286,Nie,0,Nie,brak
+Anna,Gdańsk,9574,Nie,0,Tak,małpa
+Magda,Wrocław,19072,Nie,0,Tak,słoń
+Ela,Zielona Góra,6483,Tak,2,Nie,brak
+Beata,Pcim,16442,Tak,4,Tak,słoń
+Beata,Kobyla Góra,11431,Nie,0,Tak,słoń
+Jan,Legnica,20876,Tak,3,Tak,małpa
+Magda,Orłowo,17657,Tak,4,Nie,brak
+Antek,Orłowo,8687,Tak,2,Tak,małpa
+Jurek,Zielona Góra,20110,Nie,0,Tak,pies
+Magda,Zielona Góra,9268,Tak,2,Nie,brak
+Klaudia,Warszawa,13772,Tak,3,Nie,brak
+Julian,Legnica,20076,Tak,2,Tak,pies
+Antek,Pcim,25096,Nie,0,Tak,kot
+Agata,Warszawa,18921,Nie,0,Tak,małpa
+Ewa,Orłowo,22969,Nie,0,Nie,brak
+Anna,Adamczycha,8377,Nie,0,Nie,brak
+Anna,Pcim,18768,Nie,0,Nie,brak
+Antek,Orłowo,15967,Nie,0,Nie,brak
+Beata,Ełk,16925,Nie,0,Tak,słoń
+Beata,Łódź,13060,Nie,0,Tak,małpa
+Julian,Łódź,16713,Nie,0,Nie,brak
+Agata,Zielona Góra,11309,Tak,2,Tak,pies
+Anna,Gdańsk,8302,Nie,0,Nie,brak
+Julian,Warszawa,22527,Nie,0,Tak,kot
+Beata,Orłowo,9536,Nie,0,Tak,słoń
+Magda,Zielona Góra,23186,Tak,4,Nie,brak
+Jurek,Ełk,22510,Nie,0,Nie,brak
+Magda,Gdańsk,12153,Nie,0,Nie,brak
+Julian,Warszawa,17248,Tak,3,Tak,kot
+Ewa,Zielona Góra,17304,Nie,0,Tak,pies
+Beata,Pcim,10639,Tak,1,Tak,pies
+Tomasz,Ełk,13542,Nie,0,Tak,kot
+Agata,Orłowo,9168,Tak,2,Tak,kot
+Ela,Warszawa,10598,Nie,0,Nie,brak
+Ola,Orłowo,14187,Tak,4,Nie,brak
+Sylwia,Adamczycha,12264,Tak,1,Nie,brak
+Anna,Kobyla Góra,11485,Tak,1,Nie,brak
+Ola,Gdynia,25539,Nie,0,Tak,słoń
+Ola,Łódź,10809,Tak,1,Tak,kot
+Jan,Ełk,8269,Tak,2,Nie,brak
+Magda,Kobyla Góra,11604,Nie,0,Nie,brak
+Ewa,Warszawa,21991,Nie,0,Tak,małpa
+Jola,Gdynia,21002,Nie,0,Nie,brak
+Ela,Ełk,24272,Tak,2,Nie,brak
+Jan,Kobyla Góra,24788,Tak,1,Tak,słoń
+Beata,Adamczycha,20509,Nie,0,Nie,brak
+Ola,Łódź,24297,Nie,0,Tak,pies
+Jola,Wrocław,16390,Tak,1,Nie,brak
+Antek,Warszawa,16159,Nie,0,Nie,brak
+Antek,Łódź,10746,Tak,1,Tak,kot
+Ewa,Kobyla Góra,20210,Nie,0,Nie,brak
+Antek,Ełk,8037,Tak,1,Nie,brak
+Jola,Wrocław,21165,Tak,2,Nie,brak
+Sylwia,Zielona Góra,20290,Tak,2,Tak,słoń
+Jola,Legnica,15722,Tak,3,Tak,kot
+Agata,Łódź,14800,Nie,0,Nie,brak
+Ela,Legnica,25179,Nie,0,Tak,pies
+Ola,Zielona Góra,7640,Nie,0,Tak,pies
+Anna,Gdynia,17332,Nie,0,Tak,pies
+Magda,Ełk,22424,Nie,0,Nie,brak
+Tomasz,Pcim,8231,Nie,0,Tak,małpa
+Julian,Orłowo,15971,Nie,0,Nie,brak
+Antek,Gdynia,20930,Tak,3,Nie,brak
+Klaudia,Wrocław,20608,Nie,0,Tak,słoń
+Ewa,Wrocław,7032,Tak,3,Tak,pies
+Antek,Łódź,7664,Tak,3,Tak,słoń
+Julian,Zielona Góra,17882,Tak,4,Nie,brak
+Ela,Orłowo,15206,Nie,0,Tak,pies
+Sylwia,Pcim,8314,Tak,3,Nie,brak
+Jurek,Kobyla Góra,8758,Nie,0,Nie,brak
+Agata,Gdańsk,25266,Tak,2,Tak,kot
+Klaudia,Warszawa,22415,Nie,0,Nie,brak
+Sylwia,Pcim,18398,Nie,0,Tak,pies
+Jola,Wrocław,20962,Tak,3,Tak,małpa
+Agata,Gdańsk,24816,Nie,0,Tak,małpa
+Beata,Wrocław,23963,Nie,0,Nie,brak
+Magda,Orłowo,7144,Tak,2,Tak,słoń
+Antek,Orłowo,20536,Tak,2,Nie,brak
+Anna,Ełk,24532,Nie,0,Nie,brak
+Jurek,Łódź,11968,Nie,0,Tak,pies
+Beata,Kobyla Góra,16335,Tak,4,Nie,brak
+Ola,Adamczycha,25624,Nie,0,Nie,brak
+Ela,Wrocław,21385,Nie,0,Tak,małpa
+Antek,Kobyla Góra,22228,Nie,0,Tak,słoń
+Sylwia,Legnica,10743,Tak,4,Tak,kot
+Beata,Wrocław,7827,Nie,0,Tak,słoń
+Sylwia,Gdańsk,20562,Nie,0,Nie,brak
+Antek,Kobyla Góra,9191,Nie,0,Nie,brak
+Ewa,Pcim,17053,Nie,0,Nie,brak
+Ela,Kobyla Góra,8563,Tak,3,Nie,brak
+Tomasz,Pcim,22333,Tak,4,Nie,brak
+Jurek,Orłowo,11454,Tak,4,Nie,brak
+Sylwia,Zielona Góra,7082,Nie,0,Nie,brak
+Jola,Pcim,13918,Tak,3,Nie,brak
+Jan,Gdynia,20144,Nie,0,Nie,brak
+Jola,Adamczycha,20198,Nie,0,Tak,kot
+Jola,Gdynia,22972,Tak,1,Nie,brak
+Beata,Gdańsk,22929,Tak,4,Nie,brak
+Jurek,Warszawa,25782,Tak,4,Nie,brak
+Ela,Gdańsk,11001,Tak,3,Tak,małpa
+Magda,Zielona Góra,17724,Tak,4,Nie,brak
+Klaudia,Łódź,18017,Tak,4,Nie,brak
+Jurek,Wrocław,15069,Nie,0,Nie,brak
+Jurek,Gdynia,18494,Tak,3,Tak,pies
+Antek,Gdańsk,19194,Tak,3,Tak,pies
+Agata,Zielona Góra,16887,Nie,0,Nie,brak
+Jurek,Wrocław,25391,Nie,0,Tak,pies
+Jan,Ełk,7515,Tak,3,Tak,kot
+Julian,Zielona Góra,16765,Nie,0,Nie,brak
+Magda,Wrocław,7959,Nie,0,Nie,brak
+Beata,Wrocław,16603,Tak,3,Tak,słoń
+Jan,Adamczycha,8896,Tak,3,Nie,brak
+Tomasz,Warszawa,24083,Tak,1,Tak,małpa
+Ewa,Pcim,18466,Nie,0,Nie,brak
+Ela,Gdańsk,15110,Nie,0,Tak,słoń
+Klaudia,Łódź,14057,Nie,0,Nie,brak
+Jurek,Zielona Góra,25549,Tak,4,Nie,brak
+Magda,Gdańsk,10727,Nie,0,Tak,małpa
+Julian,Pcim,16723,Tak,1,Tak,małpa
+Beata,Ełk,8470,Tak,2,Tak,kot
+Jurek,Orłowo,24895,Tak,3,Nie,brak
+Jola,Kobyla Góra,10434,Nie,0,Tak,słoń
+Sylwia,Wrocław,17262,Tak,2,Nie,brak
+Ola,Gdynia,15965,Nie,0,Tak,kot
+Ola,Gdynia,18643,Nie,0,Nie,brak
+Anna,Kobyla Góra,10025,Nie,0,Tak,kot
+Beata,Łódź,25298,Tak,3,Tak,pies
+Sylwia,Zielona Góra,8576,Tak,3,Nie,brak
+Anna,Gdynia,15944,Tak,4,Tak,małpa
+Ola,Kobyla Góra,24114,Nie,0,Nie,brak
+Jola,Kobyla Góra,18143,Nie,0,Nie,brak
+Ewa,Zielona Góra,16563,Tak,3,Nie,brak
+Ela,Wrocław,9987,Nie,0,Tak,małpa
+Antek,Pcim,23048,Tak,2,Nie,brak
+Beata,Pcim,8862,Tak,2,Nie,brak
+Klaudia,Pcim,19674,Tak,2,Nie,brak
+Agata,Gdańsk,22462,Tak,4,Nie,brak
+Klaudia,Warszawa,17656,Tak,4,Nie,brak
+Magda,Zielona Góra,6397,Tak,4,Tak,kot
+Jola,Gdańsk,17681,Nie,0,Nie,brak
+Beata,Kobyla Góra,15920,Tak,2,Nie,brak
+Jurek,Warszawa,11706,Nie,0,Tak,małpa
+Tomasz,Zielona Góra,12818,Tak,4,Tak,kot
+Ewa,Gdynia,16997,Nie,0,Nie,brak
+Klaudia,Zielona Góra,21734,Nie,0,Nie,brak
+Klaudia,Legnica,12091,Nie,0,Nie,brak
+Jurek,Gdańsk,13223,Nie,0,Tak,pies
+Tomasz,Gdańsk,10307,Tak,2,Nie,brak
+Jan,Zielona Góra,10877,Tak,3,Tak,małpa
+Ela,Wrocław,8328,Tak,4,Nie,brak
+Jan,Pcim,15492,Tak,1,Nie,brak
+Beata,Zielona Góra,9114,Nie,0,Tak,słoń
+Magda,Orłowo,22435,Tak,4,Tak,kot
+Julian,Gdynia,23487,Nie,0,Tak,słoń
+Julian,Orłowo,23053,Nie,0,Nie,brak
+Ela,Pcim,7036,Tak,4,Tak,kot
+Magda,Warszawa,16835,Tak,3,Nie,brak
+Agata,Gdańsk,10094,Tak,2,Tak,kot
+Ewa,Pcim,25370,Tak,3,Nie,brak
+Klaudia,Gdańsk,18144,Tak,3,Nie,brak
+Agata,Kobyla Góra,10854,Nie,0,Nie,brak
+Ewa,Legnica,11116,Tak,2,Nie,brak
+Jola,Pcim,11725,Tak,3,Tak,kot
+Beata,Adamczycha,11224,Tak,2,Nie,brak
+Jan,Zielona Góra,20141,Tak,4,Nie,brak
+Julian,Gdynia,7231,Tak,3,Nie,brak
+Tomasz,Legnica,19263,Nie,0,Nie,brak
+Antek,Pcim,17737,Tak,1,Nie,brak
+Ola,Adamczycha,13583,Nie,0,Nie,brak
+Anna,Adamczycha,20355,Nie,0,Nie,brak
+Sylwia,Gdynia,25807,Nie,0,Tak,pies
+Antek,Pcim,15136,Nie,0,Nie,brak
+Jan,Zielona Góra,20510,Tak,4,Tak,słoń
+Jurek,Legnica,13467,Tak,4,Nie,brak
+Jan,Ełk,23298,Nie,0,Nie,brak
+Ola,Wrocław,13637,Nie,0,Tak,słoń
+Jurek,Warszawa,15940,Nie,0,Tak,pies
+Ewa,Adamczycha,21168,Tak,4,Tak,pies
+Agata,Orłowo,12157,Tak,4,Nie,brak
+Antek,Pcim,17853,Tak,4,Tak,kot
+Ewa,Wrocław,24491,Nie,0,Tak,małpa
+Ewa,Wrocław,20237,Tak,3,Nie,brak
+Agata,Wrocław,20928,Tak,3,Tak,pies
+Tomasz,Kobyla Góra,15033,Nie,0,Nie,brak
+Julian,Legnica,18313,Tak,4,Tak,pies
+Ela,Adamczycha,22279,Tak,2,Nie,brak
+Julian,Pcim,23083,Tak,2,Tak,słoń
+Sylwia,Wrocław,19518,Tak,1,Nie,brak
+Anna,Warszawa,11110,Tak,4,Tak,słoń
+Jurek,Warszawa,12343,Tak,2,Nie,brak
+Magda,Łódź,25613,Tak,1,Tak,małpa
+Antek,Wrocław,10335,Nie,0,Nie,brak
+Jurek,Warszawa,13992,Tak,4,Tak,kot
+Klaudia,Orłowo,7509,Tak,1,Tak,słoń
+Julian,Ełk,21547,Nie,0,Tak,kot
+Ola,Ełk,17963,Nie,0,Nie,brak
+Ela,Adamczycha,23971,Tak,1,Tak,kot
+Ola,Legnica,9161,Tak,4,Nie,brak
+Jurek,Legnica,22705,Nie,0,Nie,brak
+Jola,Orłowo,9885,Tak,2,Nie,brak
+Antek,Pcim,15140,Tak,2,Nie,brak
+Ela,Warszawa,8548,Tak,3,Tak,kot
+Ewa,Gdańsk,11053,Nie,0,Nie,brak
+Jan,Warszawa,14738,Tak,2,Nie,brak
+Tomasz,Gdynia,20523,Nie,0,Tak,kot
+Anna,Łódź,22621,Nie,0,Tak,pies
+Magda,Orłowo,10628,Nie,0,Nie,brak
+Klaudia,Orłowo,20135,Tak,4,Nie,brak
+Magda,Orłowo,8805,Nie,0,Tak,słoń
+Ela,Gdańsk,13075,Tak,1,Tak,pies
+Julian,Gdynia,20582,Nie,0,Tak,pies
+Ola,Łódź,17255,Tak,4,Nie,brak
+Jan,Wrocław,6673,Nie,0,Nie,brak
+Julian,Wrocław,19395,Nie,0,Tak,kot
+Klaudia,Pcim,7545,Nie,0,Tak,małpa
+Antek,Orłowo,18791,Tak,2,Tak,małpa
+Sylwia,Łódź,22249,Nie,0,Tak,małpa
+Jurek,Pcim,18053,Nie,0,Tak,pies
+Ela,Orłowo,13525,Tak,1,Nie,brak
+Sylwia,Orłowo,18453,Tak,4,Tak,małpa
+Jurek,Adamczycha,8474,Tak,1,Tak,kot
+Julian,Orłowo,18085,Tak,2,Nie,brak
+Agata,Zielona Góra,13157,Nie,0,Nie,brak
+Beata,Warszawa,6723,Tak,3,Tak,małpa
+Jan,Gdańsk,16242,Tak,1,Nie,brak
+Jola,Ełk,9046,Nie,0,Nie,brak
+Ola,Gdańsk,16786,Tak,3,Tak,słoń
+Jan,Pcim,10585,Nie,0,Nie,brak
+Julian,Ełk,10308,Tak,4,Tak,małpa
+Ola,Warszawa,7055,Tak,3,Tak,pies
+Klaudia,Legnica,15200,Tak,1,Tak,pies
+Julian,Gdańsk,21281,Tak,1,Nie,brak
+Klaudia,Legnica,10347,Nie,0,Nie,brak
+Anna,Gdynia,21171,Tak,2,Tak,słoń
+Agata,Warszawa,20499,Tak,3,Tak,słoń
+Jola,Legnica,5972,Nie,0,Nie,brak
+Tomasz,Adamczycha,8396,Tak,3,Tak,pies
+Anna,Łódź,6422,Tak,2,Tak,słoń
+Antek,Wrocław,14186,Tak,4,Nie,brak
+Klaudia,Zielona Góra,12866,Nie,0,Nie,brak
+Jola,Orłowo,10699,Tak,4,Tak,małpa
+Klaudia,Wrocław,23783,Tak,3,Nie,brak
+Sylwia,Pcim,25751,Tak,4,Nie,brak
+Ola,Adamczycha,23094,Nie,0,Tak,kot
+Ela,Gdańsk,19669,Tak,1,Nie,brak
+Beata,Pcim,9443,Tak,2,Nie,brak
+Anna,Zielona Góra,15240,Tak,3,Tak,słoń
+Beata,Pcim,13586,Nie,0,Tak,kot
+Klaudia,Zielona Góra,15668,Tak,4,Nie,brak
+Agata,Wrocław,9792,Tak,2,Nie,brak
+Antek,Warszawa,7364,Tak,1,Tak,słoń
+Antek,Ełk,13613,Nie,0,Nie,brak
+Magda,Gdańsk,19556,Tak,1,Tak,słoń
+Tomasz,Pcim,20778,Tak,1,Nie,brak
+Sylwia,Ełk,7858,Tak,2,Nie,brak
+Antek,Orłowo,9432,Nie,0,Nie,brak
+Ola,Ełk,22178,Nie,0,Nie,brak
+Julian,Gdańsk,25353,Nie,0,Nie,brak
+Ola,Łódź,23365,Nie,0,Tak,pies
+Jan,Warszawa,6338,Tak,2,Tak,kot
+Jan,Gdynia,22687,Tak,2,Nie,brak
+Jurek,Gdańsk,24643,Nie,0,Nie,brak
+Tomasz,Ełk,13727,Nie,0,Tak,małpa
+Julian,Legnica,10504,Tak,4,Nie,brak
+Jan,Pcim,15344,Nie,0,Nie,brak
+Ela,Legnica,19865,Tak,1,Tak,małpa
+Julian,Warszawa,5851,Tak,2,Nie,brak
+Sylwia,Adamczycha,17361,Tak,1,Tak,małpa
+Agata,Legnica,13682,Nie,0,Tak,małpa
+Ewa,Pcim,24499,Nie,0,Tak,pies
+Beata,Orłowo,19450,Nie,0,Nie,brak
+Klaudia,Zielona Góra,11937,Tak,1,Nie,brak
+Julian,Orłowo,8605,Tak,2,Tak,pies
+Ola,Pcim,22953,Tak,2,Tak,kot
+Magda,Wrocław,17616,Nie,0,Nie,brak
+Magda,Warszawa,8017,Tak,3,Tak,pies
+Beata,Wrocław,23037,Tak,2,Nie,brak
+Magda,Zielona Góra,23628,Tak,1,Nie,brak
+Ela,Pcim,22424,Tak,1,Nie,brak
+Ewa,Zielona Góra,22433,Tak,2,Nie,brak
+Jurek,Łódź,23958,Nie,0,Nie,brak
+Jurek,Pcim,6466,Tak,4,Nie,brak
+Jola,Gdynia,18594,Tak,3,Tak,kot
+Tomasz,Gdynia,21205,Nie,0,Nie,brak
+Klaudia,Wrocław,7226,Nie,0,Tak,pies
+Julian,Wrocław,18477,Tak,3,Nie,brak
+Tomasz,Warszawa,18032,Nie,0,Nie,brak
+Antek,Orłowo,14111,Tak,1,Nie,brak
+Beata,Adamczycha,6332,Nie,0,Tak,słoń
+Beata,Łódź,17501,Tak,2,Tak,słoń
+Antek,Zielona Góra,8013,Nie,0,Nie,brak
+Jola,Kobyla Góra,17098,Nie,0,Nie,brak
+Anna,Orłowo,13701,Nie,0,Nie,brak
+Agata,Pcim,9196,Nie,0,Tak,pies
+Julian,Adamczycha,24867,Nie,0,Tak,pies
+Beata,Warszawa,16695,Nie,0,Tak,słoń
+Agata,Gdańsk,10171,Nie,0,Tak,kot
+Beata,Ełk,7252,Tak,2,Tak,małpa
+Anna,Orłowo,17344,Tak,2,Nie,brak
+Antek,Orłowo,23691,Nie,0,Tak,kot
+Magda,Adamczycha,16893,Tak,3,Nie,brak
+Jurek,Ełk,11537,Tak,3,Tak,kot
+Anna,Pcim,21024,Nie,0,Nie,brak
+Beata,Orłowo,21480,Tak,4,Tak,pies
+Antek,Adamczycha,11772,Tak,2,Tak,pies
+Klaudia,Legnica,10218,Nie,0,Tak,małpa
+Anna,Wrocław,7867,Tak,2,Nie,brak
+Sylwia,Gdynia,20797,Tak,3,Tak,pies
+Jola,Ełk,7011,Tak,2,Tak,małpa
+Antek,Wrocław,15415,Tak,3,Nie,brak
+Julian,Pcim,12405,Tak,3,Nie,brak
+Beata,Legnica,7235,Nie,0,Tak,kot
+Ela,Orłowo,12336,Nie,0,Nie,brak
+Jurek,Łódź,7173,Nie,0,Tak,małpa
+Tomasz,Ełk,16141,Tak,2,Nie,brak
+Beata,Wrocław,15960,Nie,0,Nie,brak
+Julian,Warszawa,22688,Tak,2,Tak,słoń
+Jan,Wrocław,18849,Tak,2,Nie,brak
+Magda,Kobyla Góra,23594,Tak,1,Nie,brak
+Klaudia,Łódź,21312,Tak,3,Tak,kot
+Klaudia,Kobyla Góra,14100,Nie,0,Nie,brak
+Agata,Kobyla Góra,6999,Tak,1,Nie,brak
+Agata,Ełk,12062,Nie,0,Tak,małpa
+Tomasz,Warszawa,15175,Tak,2,Tak,małpa
+Beata,Legnica,17497,Nie,0,Tak,pies
+Ola,Kobyla Góra,7366,Tak,4,Nie,brak
+Tomasz,Łódź,16676,Nie,0,Tak,słoń
+Ola,Zielona Góra,14752,Nie,0,Nie,brak
+Ewa,Wrocław,9878,Nie,0,Nie,brak
+Beata,Pcim,17859,Tak,4,Tak,kot
+Antek,Ełk,20118,Nie,0,Tak,pies
+Antek,Łódź,18907,Nie,0,Tak,małpa
+Jurek,Gdynia,20209,Nie,0,Tak,pies
+Ewa,Adamczycha,18469,Nie,0,Tak,słoń
+Jola,Wrocław,16909,Tak,1,Tak,małpa
+Ewa,Warszawa,11921,Nie,0,Tak,słoń
+Ewa,Kobyla Góra,22059,Tak,4,Tak,pies
+Tomasz,Pcim,22102,Tak,3,Tak,kot
+Sylwia,Kobyla Góra,17837,Nie,0,Nie,brak
+Magda,Warszawa,22815,Nie,0,Nie,brak
+Anna,Łódź,14539,Tak,1,Tak,słoń
+Jurek,Gdynia,8507,Nie,0,Tak,pies
+Jurek,Adamczycha,19710,Nie,0,Tak,słoń
+Jurek,Ełk,8386,Tak,3,Nie,brak
+Antek,Gdynia,19910,Tak,1,Tak,kot
+Anna,Wrocław,25541,Tak,3,Tak,słoń
+Ewa,Łódź,11713,Tak,3,Nie,brak
+Magda,Adamczycha,23674,Nie,0,Nie,brak
+Jola,Gdańsk,15426,Nie,0,Tak,słoń
+Ola,Gdynia,16325,Tak,3,Nie,brak
+Sylwia,Kobyla Góra,9161,Nie,0,Tak,słoń
+Antek,Orłowo,8423,Tak,3,Nie,brak
+Beata,Wrocław,16545,Nie,0,Nie,brak
+Beata,Ełk,15487,Tak,3,Tak,kot
+Beata,Wrocław,15843,Tak,1,Nie,brak
+Julian,Adamczycha,20411,Nie,0,Tak,pies
+Tomasz,Gdańsk,25546,Nie,0,Nie,brak
+Jan,Pcim,19762,Nie,0,Tak,słoń
+Ewa,Gdynia,11260,Nie,0,Tak,słoń
+Jan,Legnica,20345,Tak,2,Tak,słoń
+Ela,Pcim,17319,Tak,2,Tak,kot
+Tomasz,Wrocław,20451,Tak,1,Nie,brak
+Beata,Zielona Góra,7187,Tak,4,Tak,kot
+Sylwia,Wrocław,17352,Nie,0,Nie,brak
+Klaudia,Warszawa,20052,Tak,1,Nie,brak
+Antek,Adamczycha,14796,Nie,0,Nie,brak
+Tomasz,Ełk,7679,Nie,0,Nie,brak
+Ola,Orłowo,8258,Tak,4,Tak,słoń
+Sylwia,Gdańsk,19110,Tak,2,Tak,pies
+Sylwia,Zielona Góra,17704,Tak,3,Nie,brak
+Julian,Legnica,22612,Nie,0,Nie,brak
+Antek,Pcim,11042,Nie,0,Nie,brak
+Anna,Gdynia,6820,Nie,0,Tak,kot
+Jurek,Adamczycha,10478,Nie,0,Nie,brak
+Julian,Gdynia,25708,Tak,4,Tak,słoń
+Sylwia,Łódź,20158,Nie,0,Tak,pies
+Anna,Warszawa,6940,Nie,0,Nie,brak
+Antek,Gdańsk,9936,Nie,0,Tak,małpa
+Klaudia,Warszawa,8003,Nie,0,Nie,brak
+Ola,Wrocław,13533,Nie,0,Nie,brak
+Sylwia,Warszawa,17803,Tak,2,Tak,małpa
+Beata,Ełk,17666,Nie,0,Nie,brak
+Jan,Legnica,18345,Nie,0,Nie,brak
+Ewa,Wrocław,24387,Tak,2,Nie,brak
+Tomasz,Zielona Góra,6861,Tak,4,Nie,brak
+Tomasz,Pcim,25627,Nie,0,Tak,kot
+Beata,Gdynia,10827,Tak,3,Nie,brak
+Sylwia,Zielona Góra,20543,Tak,1,Tak,kot
+Ewa,Pcim,17955,Tak,1,Tak,pies
+Klaudia,Łódź,17990,Nie,0,Tak,małpa
+Anna,Wrocław,20347,Tak,3,Nie,brak
+Jan,Wrocław,8319,Nie,0,Nie,brak
+Ewa,Gdańsk,24606,Tak,1,Tak,małpa
+Anna,Wrocław,10311,Nie,0,Nie,brak
+Ewa,Gdynia,23149,Tak,4,Nie,brak
+Ela,Legnica,17824,Nie,0,Tak,małpa
+Klaudia,Łódź,18842,Tak,3,Tak,słoń
+Ola,Gdańsk,16101,Tak,2,Tak,kot
+Ola,Orłowo,14932,Tak,2,Nie,brak
+Tomasz,Gdynia,13979,Nie,0,Tak,pies
+Ela,Zielona Góra,9517,Nie,0,Tak,kot
+Ewa,Legnica,6649,Tak,2,Nie,brak
+Magda,Warszawa,11896,Nie,0,Nie,brak
+Magda,Pcim,22152,Nie,0,Nie,brak
+Ola,Łódź,22765,Nie,0,Nie,brak
+Julian,Kobyla Góra,18480,Nie,0,Tak,słoń
+Jurek,Gdynia,24204,Nie,0,Nie,brak
+Magda,Pcim,9658,Tak,1,Nie,brak
+Tomasz,Adamczycha,14377,Nie,0,Nie,brak
+Jan,Pcim,14329,Tak,4,Tak,małpa
+Beata,Zielona Góra,20423,Nie,0,Nie,brak
+Ela,Pcim,12831,Nie,0,Nie,brak
+Beata,Orłowo,25849,Nie,0,Tak,kot
+Anna,Orłowo,15157,Tak,1,Nie,brak
+Agata,Ełk,21895,Nie,0,Tak,pies
+Magda,Wrocław,12359,Nie,0,Nie,brak
+Julian,Legnica,9818,Nie,0,Nie,brak
+Anna,Wrocław,10247,Nie,0,Nie,brak
+Magda,Gdynia,8226,Tak,2,Nie,brak
+Jola,Wrocław,20612,Tak,4,Nie,brak
+Anna,Kobyla Góra,11457,Nie,0,Tak,kot
+Anna,Kobyla Góra,20385,Nie,0,Tak,słoń
+Agata,Gdynia,8676,Tak,3,Tak,małpa
+Tomasz,Gdynia,16272,Tak,2,Nie,brak
+Julian,Łódź,17184,Tak,3,Nie,brak
+Klaudia,Wrocław,7927,Nie,0,Nie,brak
+Sylwia,Kobyla Góra,23822,Nie,0,Nie,brak
+Julian,Gdańsk,23565,Nie,0,Tak,słoń
+Jan,Zielona Góra,15314,Tak,1,Nie,brak
+Anna,Gdańsk,15628,Tak,1,Nie,brak
+Julian,Orłowo,10961,Nie,0,Nie,brak
+Antek,Łódź,11504,Tak,2,Tak,kot
+Sylwia,Gdańsk,17645,Nie,0,Nie,brak
+Jan,Łódź,22470,Nie,0,Tak,małpa
+Antek,Adamczycha,13147,Tak,1,Nie,brak
+Agata,Kobyla Góra,9776,Nie,0,Tak,małpa
+Antek,Zielona Góra,12385,Tak,1,Nie,brak
+Jurek,Wrocław,10350,Nie,0,Tak,kot
+Sylwia,Zielona Góra,13557,Tak,4,Tak,kot
+Beata,Łódź,21988,Nie,0,Nie,brak
+Ewa,Łódź,6661,Nie,0,Nie,brak
+Antek,Ełk,17625,Nie,0,Nie,brak
+Klaudia,Ełk,23954,Tak,1,Tak,małpa
+Agata,Legnica,24552,Tak,3,Tak,pies
+Beata,Wrocław,17888,Tak,2,Tak,małpa
+Agata,Adamczycha,21115,Nie,0,Tak,pies
+Agata,Legnica,23876,Nie,0,Nie,brak
+Anna,Gdynia,10052,Tak,1,Tak,małpa
+Agata,Orłowo,8625,Nie,0,Nie,brak
+Antek,Kobyla Góra,7954,Nie,0,Nie,brak
+Ewa,Warszawa,15934,Tak,3,Nie,brak
+Jurek,Wrocław,18846,Nie,0,Tak,kot
+Agata,Warszawa,21484,Nie,0,Tak,kot
+Agata,Gdynia,23025,Tak,2,Tak,pies
+Julian,Wrocław,19260,Tak,1,Nie,brak
+Jola,Adamczycha,19216,Tak,4,Nie,brak
+Klaudia,Zielona Góra,24638,Tak,1,Tak,pies
+Ela,Legnica,8216,Tak,1,Nie,brak
+Beata,Łódź,9906,Nie,0,Nie,brak
+Jurek,Ełk,16188,Tak,3,Nie,brak
+Magda,Legnica,8230,Tak,2,Tak,małpa
+Jola,Warszawa,20544,Nie,0,Tak,małpa
+Beata,Wrocław,21064,Tak,4,Tak,pies
+Ela,Pcim,22752,Nie,0,Tak,pies
+Ewa,Kobyla Góra,17089,Nie,0,Tak,kot
+Jan,Orłowo,10005,Nie,0,Tak,małpa
+Jurek,Zielona Góra,23865,Nie,0,Nie,brak
+Jurek,Łódź,25060,Tak,1,Nie,brak
+Ela,Ełk,11762,Tak,4,Nie,brak
+Tomasz,Warszawa,10028,Tak,1,Tak,pies
+Jola,Kobyla Góra,19976,Tak,4,Tak,pies
+Klaudia,Ełk,22277,Tak,1,Nie,brak
+Ola,Gdynia,7615,Tak,4,Nie,brak
+Klaudia,Łódź,9868,Nie,0,Nie,brak
+Antek,Kobyla Góra,22777,Tak,1,Tak,pies
+Anna,Ełk,10814,Nie,0,Nie,brak
+Tomasz,Zielona Góra,15765,Nie,0,Nie,brak
+Agata,Wrocław,11195,Tak,1,Tak,pies
+Agata,Gdynia,11107,Tak,2,Nie,brak
+Antek,Adamczycha,16372,Nie,0,Nie,brak
+Antek,Orłowo,13188,Nie,0,Tak,małpa
+Julian,Warszawa,17138,Nie,0,Tak,pies
+Beata,Gdańsk,22803,Nie,0,Nie,brak
+Julian,Ełk,15107,Nie,0,Nie,brak
+Ela,Ełk,8384,Nie,0,Nie,brak
+Jan,Pcim,14011,Nie,0,Tak,pies
+Klaudia,Gdańsk,12232,Tak,1,Tak,pies
+Jola,Zielona Góra,23849,Nie,0,Nie,brak
+Klaudia,Warszawa,14793,Nie,0,Tak,słoń
+Antek,Łódź,9901,Nie,0,Tak,kot
+Klaudia,Warszawa,15722,Nie,0,Nie,brak
+Beata,Ełk,23281,Tak,4,Nie,brak
+Jola,Zielona Góra,8861,Tak,1,Nie,brak
+Ela,Warszawa,22268,Nie,0,Tak,kot
+Jan,Wrocław,11325,Nie,0,Tak,słoń
+Tomasz,Legnica,25192,Tak,4,Nie,brak
+Sylwia,Zielona Góra,24826,Nie,0,Tak,pies
+Julian,Pcim,10852,Tak,2,Nie,brak
+Magda,Adamczycha,11409,Nie,0,Tak,pies
+Ela,Adamczycha,25629,Nie,0,Nie,brak
+Agata,Kobyla Góra,16863,Tak,3,Nie,brak
+Ola,Adamczycha,24268,Tak,2,Nie,brak
+Jurek,Pcim,7149,Nie,0,Tak,pies
+Julian,Kobyla Góra,6729,Nie,0,Nie,brak
+Anna,Kobyla Góra,8461,Nie,0,Tak,słoń
+Jurek,Łódź,7289,Nie,0,Nie,brak
+Sylwia,Legnica,24699,Tak,4,Tak,pies
+Julian,Gdańsk,14472,Nie,0,Nie,brak
+Ela,Gdynia,12707,Tak,1,Tak,małpa
+Klaudia,Łódź,24547,Tak,4,Nie,brak
+Jurek,Orłowo,19450,Nie,0,Tak,kot
+Antek,Ełk,6792,Nie,0,Nie,brak
+Klaudia,Legnica,22119,Nie,0,Nie,brak
+Jan,Legnica,23677,Nie,0,Tak,pies
+Ela,Legnica,15291,Tak,1,Nie,brak
+Antek,Warszawa,15699,Nie,0,Nie,brak
+Klaudia,Orłowo,21625,Nie,0,Tak,pies
+Antek,Łódź,13824,Tak,4,Tak,słoń
+Magda,Orłowo,19106,Tak,3,Tak,kot
+Julian,Ełk,15546,Tak,4,Tak,słoń
+Jan,Gdańsk,20661,Tak,3,Tak,słoń
+Ela,Wrocław,8191,Tak,1,Nie,brak
+Ela,Orłowo,7763,Nie,0,Tak,słoń
+Agata,Legnica,10979,Tak,1,Nie,brak
+Beata,Gdańsk,20204,Nie,0,Tak,kot
+Magda,Wrocław,19419,Tak,1,Nie,brak
+Jola,Ełk,21667,Nie,0,Nie,brak
+Beata,Pcim,21018,Nie,0,Tak,małpa
+Jurek,Wrocław,12485,Nie,0,Nie,brak
+Jurek,Pcim,16947,Nie,0,Nie,brak
+Sylwia,Ełk,25679,Tak,2,Nie,brak
+Ela,Adamczycha,10507,Nie,0,Nie,brak
+Julian,Wrocław,16042,Tak,2,Tak,małpa
+Tomasz,Pcim,16263,Nie,0,Tak,kot
+Ela,Ełk,17117,Nie,0,Tak,małpa
+Klaudia,Gdynia,18865,Nie,0,Nie,brak
+Klaudia,Legnica,10084,Nie,0,Nie,brak
+Sylwia,Warszawa,17941,Tak,1,Tak,słoń
+Anna,Wrocław,22674,Tak,1,Tak,kot
+Antek,Kobyla Góra,24204,Nie,0,Tak,małpa
+Jurek,Orłowo,9279,Nie,0,Tak,pies
+Ewa,Pcim,16256,Nie,0,Tak,pies
+Sylwia,Ełk,13721,Nie,0,Nie,brak
+Ela,Łódź,21085,Tak,2,Nie,brak
+Anna,Zielona Góra,9814,Tak,3,Tak,słoń
+Anna,Pcim,14564,Nie,0,Nie,brak
+Jola,Wrocław,20532,Nie,0,Tak,pies
+Ola,Pcim,13923,Nie,0,Tak,słoń
+Jan,Gdańsk,10416,Tak,3,Tak,kot
+Jurek,Łódź,8972,Nie,0,Nie,brak
+Ela,Wrocław,7458,Tak,1,Tak,kot
+Jan,Warszawa,15309,Tak,4,Tak,słoń
+Magda,Gdańsk,18387,Nie,0,Nie,brak
+Tomasz,Łódź,19501,Tak,2,Nie,brak
+Julian,Orłowo,13935,Tak,3,Nie,brak
+Magda,Kobyla Góra,11033,Tak,1,Tak,małpa
+Ewa,Orłowo,16529,Tak,3,Nie,brak
+Julian,Pcim,24729,Nie,0,Tak,małpa
+Anna,Zielona Góra,16047,Tak,2,Tak,kot
+Antek,Pcim,12020,Nie,0,Nie,brak
+Antek,Adamczycha,11021,Tak,3,Tak,kot
+Klaudia,Ełk,22127,Nie,0,Nie,brak
+Magda,Łódź,22666,Nie,0,Nie,brak
+Klaudia,Pcim,21096,Tak,4,Tak,pies
+Jan,Adamczycha,22143,Nie,0,Nie,brak
+Julian,Orłowo,15910,Tak,2,Tak,małpa
+Anna,Ełk,22097,Nie,0,Tak,słoń
+Sylwia,Zielona Góra,6559,Nie,0,Nie,brak
+Jola,Adamczycha,8750,Tak,3,Nie,brak
+Agata,Orłowo,18685,Nie,0,Tak,małpa
+Julian,Zielona Góra,22362,Tak,3,Tak,pies
+Jan,Wrocław,20782,Tak,1,Tak,kot
+Ewa,Pcim,13688,Tak,4,Tak,kot
+Jan,Gdańsk,12849,Nie,0,Tak,kot
+Anna,Orłowo,24915,Tak,4,Nie,brak
+Ela,Kobyla Góra,17363,Tak,1,Tak,pies
+Jola,Gdańsk,7394,Tak,3,Tak,kot
+Klaudia,Ełk,7456,Nie,0,Nie,brak
+Klaudia,Gdańsk,15019,Nie,0,Nie,brak
+Ola,Orłowo,22016,Nie,0,Nie,brak
+Sylwia,Pcim,25379,Nie,0,Tak,słoń
+Anna,Ełk,21220,Tak,1,Tak,pies
+Klaudia,Zielona Góra,15163,Tak,3,Tak,małpa
+Jola,Ełk,23386,Nie,0,Tak,małpa
+Beata,Ełk,6067,Nie,0,Nie,brak
+Jurek,Legnica,9322,Nie,0,Tak,słoń
+Beata,Ełk,19920,Tak,2,Tak,słoń
+Jurek,Warszawa,10188,Nie,0,Tak,małpa
+Antek,Ełk,14466,Nie,0,Tak,kot
+Jola,Ełk,17785,Tak,1,Tak,słoń
+Ola,Adamczycha,19013,Tak,3,Tak,małpa
+Julian,Pcim,17791,Tak,4,Tak,kot
+Klaudia,Wrocław,7282,Tak,2,Nie,brak
+Sylwia,Adamczycha,18926,Tak,1,Tak,pies
+Ewa,Orłowo,7476,Nie,0,Tak,małpa
+Agata,Kobyla Góra,24486,Tak,3,Tak,kot
+Magda,Zielona Góra,24209,Nie,0,Nie,brak
+Jan,Legnica,12178,Nie,0,Tak,kot
+Klaudia,Warszawa,17679,Tak,3,Tak,kot
+Klaudia,Pcim,23928,Nie,0,Nie,brak
+Beata,Kobyla Góra,15256,Nie,0,Nie,brak
+Sylwia,Zielona Góra,8209,Nie,0,Tak,małpa
+Jan,Łódź,18459,Nie,0,Nie,brak
+Ola,Legnica,22323,Tak,1,Nie,brak
+Ola,Gdańsk,20557,Tak,2,Nie,brak
+Jan,Legnica,23817,Nie,0,Nie,brak
+Klaudia,Gdynia,14965,Tak,3,Nie,brak
+Ewa,Kobyla Góra,25822,Nie,0,Nie,brak
+Anna,Gdynia,9693,Nie,0,Nie,brak
+Jan,Gdynia,10016,Nie,0,Tak,kot
+Magda,Pcim,8968,Tak,3,Tak,kot
+Klaudia,Legnica,18707,Nie,0,Tak,pies
+Jola,Pcim,18028,Tak,1,Nie,brak
+Ola,Wrocław,16911,Tak,1,Nie,brak
+Klaudia,Pcim,24079,Nie,0,Tak,małpa
+Ewa,Zielona Góra,17780,Nie,0,Tak,małpa
+Ola,Kobyla Góra,10527,Tak,4,Tak,słoń
+Jurek,Warszawa,12322,Nie,0,Tak,kot
+Sylwia,Wrocław,25541,Tak,2,Nie,brak
+Magda,Warszawa,22482,Tak,2,Tak,słoń
+Ola,Legnica,18952,Nie,0,Tak,kot
+Beata,Gdańsk,22186,Nie,0,Tak,pies
+Ela,Ełk,7119,Nie,0,Nie,brak
+Jan,Zielona Góra,7284,Tak,1,Tak,małpa
+Ola,Ełk,7075,Nie,0,Nie,brak
+Magda,Łódź,10290,Nie,0,Tak,pies
+Antek,Gdynia,16713,Nie,0,Tak,małpa
+Ewa,Kobyla Góra,21323,Nie,0,Tak,słoń
+Sylwia,Warszawa,22817,Nie,0,Nie,brak
+Anna,Łódź,20774,Tak,3,Nie,brak
+Sylwia,Adamczycha,10680,Tak,4,Nie,brak
+Tomasz,Pcim,25665,Nie,0,Nie,brak
+Beata,Gdynia,22692,Nie,0,Tak,kot
+Beata,Warszawa,10380,Nie,0,Tak,kot
+Sylwia,Wrocław,16546,Tak,3,Tak,kot
+Klaudia,Kobyla Góra,16237,Tak,2,Nie,brak
+Tomasz,Ełk,11124,Tak,2,Nie,brak
+Jola,Zielona Góra,18676,Nie,0,Tak,słoń
+Ela,Ełk,15605,Nie,0,Nie,brak
+Sylwia,Pcim,25255,Tak,2,Nie,brak
+Ola,Orłowo,16822,Tak,2,Tak,kot
+Sylwia,Łódź,22423,Tak,2,Tak,kot
+Beata,Ełk,22502,Tak,2,Nie,brak
+Beata,Kobyla Góra,23243,Tak,4,Tak,małpa
+Anna,Warszawa,21851,Tak,2,Nie,brak
+Jurek,Ełk,24245,Nie,0,Nie,brak
+Beata,Gdańsk,15623,Tak,2,Nie,brak
+Ewa,Wrocław,21361,Tak,2,Nie,brak
+Jola,Adamczycha,6345,Tak,3,Nie,brak
+Ela,Orłowo,17870,Tak,2,Nie,brak
+Sylwia,Gdynia,16654,Nie,0,Tak,pies
+Antek,Kobyla Góra,9391,Tak,2,Nie,brak
+Ola,Orłowo,19449,Tak,1,Tak,słoń
+Ela,Gdańsk,24926,Tak,1,Tak,słoń
+Jola,Ełk,15881,Tak,1,Nie,brak
+Jurek,Warszawa,6673,Nie,0,Nie,brak
+Julian,Ełk,25359,Tak,4,Tak,słoń
+Ewa,Wrocław,21351,Nie,0,Nie,brak
+Jurek,Zielona Góra,14500,Tak,4,Tak,małpa
+Sylwia,Pcim,24755,Nie,0,Tak,pies
+Julian,Ełk,24727,Nie,0,Nie,brak
+Jola,Łódź,13256,Nie,0,Tak,pies
+Anna,Warszawa,7482,Tak,1,Tak,słoń
+Antek,Legnica,24920,Tak,3,Nie,brak
+Klaudia,Adamczycha,21543,Nie,0,Tak,kot
+Ela,Adamczycha,11387,Nie,0,Nie,brak
+Jan,Pcim,22978,Nie,0,Nie,brak
+Agata,Wrocław,18258,Nie,0,Nie,brak
+Ela,Warszawa,10642,Nie,0,Tak,słoń
+Anna,Warszawa,13736,Nie,0,Tak,małpa
+Antek,Gdańsk,6834,Nie,0,Nie,brak
+Agata,Gdynia,24561,Nie,0,Nie,brak
+Ewa,Legnica,9401,Nie,0,Tak,pies
+Jola,Łódź,12051,Tak,4,Tak,pies
+Magda,Wrocław,6420,Tak,4,Nie,brak
+Ola,Kobyla Góra,20251,Tak,2,Nie,brak
+Jola,Ełk,16079,Tak,1,Tak,słoń
+Ewa,Zielona Góra,19522,Nie,0,Tak,pies
+Agata,Zielona Góra,10762,Nie,0,Tak,małpa
+Julian,Gdynia,19331,Tak,1,Nie,brak
+Antek,Łódź,12481,Nie,0,Nie,brak
+Ewa,Orłowo,19247,Tak,2,Nie,brak
+Klaudia,Zielona Góra,22243,Nie,0,Tak,kot
+Agata,Zielona Góra,25836,Nie,0,Tak,pies
+Beata,Legnica,21253,Tak,2,Tak,małpa
+Ela,Łódź,7840,Tak,1,Tak,pies
+Anna,Ełk,10324,Nie,0,Nie,brak
+Magda,Warszawa,22796,Nie,0,Nie,brak
+Ewa,Wrocław,12594,Nie,0,Tak,pies
+Anna,Orłowo,24179,Tak,1,Nie,brak
+Julian,Łódź,16451,Nie,0,Nie,brak
+Klaudia,Pcim,21475,Nie,0,Tak,kot
+Ola,Adamczycha,23018,Nie,0,Nie,brak
+Julian,Zielona Góra,18147,Tak,3,Tak,słoń
+Jurek,Kobyla Góra,16081,Tak,1,Nie,brak
+Magda,Gdańsk,11474,Nie,0,Tak,małpa
+Magda,Wrocław,20862,Nie,0,Nie,brak
+Magda,Wrocław,23269,Nie,0,Nie,brak
+Jurek,Gdańsk,17017,Tak,3,Nie,brak
+Beata,Kobyla Góra,23700,Nie,0,Tak,słoń
+Jola,Warszawa,17409,Tak,3,Tak,słoń
+Ewa,Ełk,14462,Tak,2,Nie,brak
+Antek,Kobyla Góra,25790,Nie,0,Nie,brak
+Jurek,Gdynia,21665,Tak,3,Tak,małpa
+Klaudia,Ełk,12100,Tak,4,Nie,brak
+Jola,Kobyla Góra,13877,Tak,2,Nie,brak
+Agata,Adamczycha,14942,Nie,0,Nie,brak
+Jola,Łódź,24087,Tak,3,Tak,kot
+Jurek,Pcim,15581,Nie,0,Tak,kot
+Sylwia,Gdańsk,13168,Tak,3,Tak,kot
+Antek,Warszawa,15552,Tak,2,Nie,brak
+Magda,Wrocław,15270,Tak,1,Tak,pies
+Klaudia,Warszawa,12592,Nie,0,Tak,pies
+Ela,Ełk,21823,Nie,0,Nie,brak
+Julian,Gdańsk,16188,Nie,0,Nie,brak
+Ela,Ełk,21522,Nie,0,Nie,brak
+Jurek,Ełk,17229,Tak,3,Nie,brak
+Ewa,Orłowo,24166,Tak,2,Tak,słoń
+Jola,Adamczycha,14760,Nie,0,Tak,małpa
+Ewa,Adamczycha,15230,Nie,0,Tak,słoń
+Magda,Kobyla Góra,9793,Tak,4,Nie,brak
+Ela,Gdańsk,24591,Tak,1,Tak,słoń
+Julian,Legnica,23599,Tak,3,Nie,brak
+Jan,Orłowo,18241,Nie,0,Tak,małpa
+Beata,Gdańsk,18728,Tak,3,Nie,brak
+Ewa,Warszawa,17109,Nie,0,Nie,brak
+Jurek,Gdynia,10599,Tak,4,Nie,brak
+Ewa,Gdańsk,15317,Tak,4,Nie,brak
+Jurek,Orłowo,7178,Nie,0,Nie,brak
+Magda,Gdańsk,15225,Nie,0,Nie,brak
+Klaudia,Gdańsk,8389,Tak,2,Tak,pies
+Jan,Kobyla Góra,17149,Nie,0,Tak,słoń
+Agata,Legnica,20295,Nie,0,Tak,kot
+Agata,Orłowo,14203,Tak,4,Tak,kot
+Ela,Adamczycha,21498,Nie,0,Nie,brak
+Ewa,Pcim,12811,Tak,3,Nie,brak
+Julian,Legnica,12421,Nie,0,Nie,brak
+Sylwia,Legnica,23448,Tak,4,Tak,kot
+Anna,Gdynia,14684,Tak,2,Nie,brak
+Ela,Pcim,24216,Nie,0,Tak,słoń
+Ela,Legnica,14700,Nie,0,Nie,brak
+Beata,Warszawa,10298,Nie,0,Nie,brak
+Ewa,Ełk,9379,Nie,0,Nie,brak
+Ola,Adamczycha,25029,Tak,4,Tak,małpa
+Agata,Legnica,13640,Tak,2,Nie,brak
+Agata,Adamczycha,13744,Nie,0,Nie,brak
+Jurek,Kobyla Góra,7463,Nie,0,Nie,brak
+Jola,Gdańsk,23201,Tak,4,Nie,brak
+Tomasz,Orłowo,13194,Nie,0,Tak,kot
+Tomasz,Kobyla Góra,13429,Nie,0,Nie,brak
+Tomasz,Adamczycha,7520,Nie,0,Tak,pies
+Jurek,Legnica,9083,Tak,3,Tak,małpa
+Beata,Pcim,19343,Nie,0,Nie,brak
+Julian,Adamczycha,16623,Nie,0,Nie,brak
+Tomasz,Legnica,21279,Nie,0,Nie,brak
+Ola,Zielona Góra,9094,Nie,0,Nie,brak
+Klaudia,Łódź,10304,Nie,0,Tak,kot
+Ola,Gdynia,5969,Tak,2,Tak,małpa
+Magda,Warszawa,23833,Tak,2,Tak,słoń
+Jan,Zielona Góra,10975,Tak,1,Tak,słoń
+Jurek,Warszawa,19133,Tak,1,Nie,brak
+Antek,Wrocław,21387,Tak,1,Nie,brak
+Ela,Wrocław,21445,Tak,1,Nie,brak
+Julian,Kobyla Góra,12335,Nie,0,Tak,kot
+Jurek,Gdynia,15212,Nie,0,Nie,brak
+Jurek,Orłowo,16324,Tak,2,Tak,pies
+Agata,Warszawa,15152,Tak,3,Nie,brak
+Jola,Wrocław,7738,Nie,0,Nie,brak
+Antek,Gdynia,8731,Nie,0,Nie,brak
+Sylwia,Gdańsk,24613,Tak,2,Nie,brak
+Ola,Orłowo,13409,Nie,0,Nie,brak
+Beata,Adamczycha,23335,Nie,0,Nie,brak
+Jurek,Zielona Góra,7022,Tak,1,Nie,brak
+Ela,Ełk,11536,Nie,0,Nie,brak
+Beata,Gdynia,19493,Nie,0,Nie,brak
+Ola,Pcim,11560,Tak,3,Tak,pies
+Beata,Wrocław,6990,Tak,3,Nie,brak
+Jan,Ełk,18808,Nie,0,Tak,słoń
+Anna,Adamczycha,22032,Nie,0,Nie,brak
+Anna,Adamczycha,11905,Tak,4,Nie,brak
+Beata,Wrocław,15285,Tak,1,Nie,brak
+Tomasz,Łódź,7027,Tak,4,Nie,brak
+Agata,Łódź,6103,Nie,0,Tak,kot
+Sylwia,Ełk,15577,Nie,0,Nie,brak
+Ola,Warszawa,24410,Tak,3,Tak,słoń
+Antek,Wrocław,25551,Tak,3,Nie,brak
+Tomasz,Zielona Góra,9316,Nie,0,Nie,brak
+Ewa,Wrocław,16778,Tak,1,Tak,kot
+Klaudia,Warszawa,15124,Nie,0,Tak,słoń
+Jurek,Warszawa,20688,Nie,0,Nie,brak
+Agata,Kobyla Góra,23602,Nie,0,Tak,małpa
+Beata,Orłowo,22980,Tak,2,Tak,pies
+Magda,Legnica,21984,Tak,1,Nie,brak
+Magda,Warszawa,10197,Nie,0,Tak,słoń
+Ewa,Legnica,22322,Tak,2,Tak,kot
+Tomasz,Pcim,21136,Tak,4,Tak,małpa
+Ewa,Orłowo,14740,Nie,0,Nie,brak
+Beata,Ełk,12118,Nie,0,Nie,brak
+Jan,Orłowo,9491,Nie,0,Tak,małpa
+Jurek,Gdynia,16635,Tak,2,Tak,małpa
+Magda,Zielona Góra,11124,Nie,0,Tak,słoń
+Anna,Kobyla Góra,20837,Tak,2,Nie,brak
+Klaudia,Łódź,14230,Nie,0,Tak,pies
+Ola,Orłowo,11901,Tak,4,Nie,brak
+Sylwia,Gdynia,6261,Tak,1,Tak,słoń
+Ola,Pcim,16846,Tak,2,Nie,brak
+Klaudia,Wrocław,15467,Nie,0,Nie,brak
+Antek,Gdynia,24405,Nie,0,Tak,pies
+Ola,Orłowo,12129,Tak,3,Nie,brak
+Ewa,Łódź,11550,Nie,0,Tak,małpa
+Beata,Warszawa,25819,Tak,2,Tak,kot
+Jan,Zielona Góra,19087,Nie,0,Nie,brak
+Ola,Warszawa,19814,Tak,2,Nie,brak
+Magda,Ełk,22684,Tak,4,Tak,pies
+Julian,Ełk,16545,Tak,4,Tak,małpa
+Tomasz,Gdynia,8642,Tak,2,Tak,słoń
+Anna,Zielona Góra,18934,Tak,3,Tak,pies
+Julian,Gdańsk,8925,Nie,0,Tak,pies
+Beata,Łódź,11854,Tak,4,Tak,małpa
+Klaudia,Wrocław,10407,Nie,0,Nie,brak
+Sylwia,Gdańsk,21445,Tak,1,Nie,brak
+Antek,Łódź,16403,Nie,0,Tak,małpa
+Tomasz,Kobyla Góra,13928,Tak,4,Nie,brak
+Jan,Wrocław,6023,Nie,0,Nie,brak
+Ola,Łódź,14345,Tak,2,Nie,brak
+Tomasz,Łódź,18368,Nie,0,Nie,brak
+Jurek,Zielona Góra,13517,Nie,0,Tak,pies
+Julian,Warszawa,20438,Tak,4,Nie,brak
+Julian,Kobyla Góra,14548,Nie,0,Nie,brak
+Agata,Łódź,16601,Nie,0,Tak,słoń
+Jola,Kobyla Góra,15694,Tak,1,Nie,brak
+Ola,Ełk,24886,Tak,3,Tak,słoń
+Klaudia,Pcim,24572,Tak,4,Tak,małpa
+Tomasz,Kobyla Góra,6174,Nie,0,Nie,brak
+Agata,Legnica,14370,Nie,0,Tak,pies
+Sylwia,Ełk,17581,Tak,1,Tak,kot
+Magda,Wrocław,13543,Tak,2,Tak,słoń
+Klaudia,Warszawa,7835,Tak,1,Tak,słoń
+Julian,Warszawa,9673,Nie,0,Nie,brak
+Ewa,Warszawa,21050,Tak,3,Tak,pies
+Sylwia,Warszawa,15853,Tak,2,Nie,brak
+Klaudia,Łódź,11033,Tak,4,Tak,małpa
+Julian,Warszawa,19084,Nie,0,Nie,brak
+Tomasz,Zielona Góra,22266,Tak,3,Tak,pies
+Klaudia,Zielona Góra,15990,Nie,0,Tak,kot
+Jan,Kobyla Góra,9647,Tak,1,Tak,słoń
+Magda,Legnica,15467,Tak,2,Tak,kot
+Sylwia,Gdynia,17843,Nie,0,Tak,małpa
+Tomasz,Adamczycha,13036,Nie,0,Nie,brak
+Tomasz,Orłowo,12980,Tak,2,Tak,słoń
+Ela,Gdynia,10176,Nie,0,Tak,słoń
+Ola,Gdynia,21469,Nie,0,Nie,brak
+Beata,Kobyla Góra,10819,Nie,0,Nie,brak
+Sylwia,Ełk,20708,Nie,0,Nie,brak
+Jurek,Warszawa,25648,Nie,0,Tak,kot
+Ela,Łódź,18042,Nie,0,Nie,brak
+Ola,Kobyla Góra,19426,Nie,0,Nie,brak
+Ola,Ełk,23797,Nie,0,Nie,brak
+Julian,Łódź,21228,Tak,1,Nie,brak
+Tomasz,Zielona Góra,23413,Tak,2,Nie,brak
+Jurek,Adamczycha,12956,Tak,3,Tak,kot
+Beata,Pcim,13908,Nie,0,Tak,małpa
+Ela,Orłowo,25323,Tak,1,Tak,słoń
+Tomasz,Pcim,8482,Nie,0,Tak,kot
+Antek,Kobyla Góra,23019,Nie,0,Nie,brak
+Magda,Warszawa,20439,Tak,2,Nie,brak
+Ela,Orłowo,23107,Nie,0,Tak,słoń
+Beata,Gdynia,17654,Tak,1,Nie,brak
+Ela,Gdańsk,8359,Nie,0,Tak,słoń
+Jola,Legnica,24286,Tak,3,Tak,słoń
+Jola,Ełk,9476,Tak,1,Nie,brak
+Klaudia,Wrocław,7823,Nie,0,Nie,brak
+Julian,Gdańsk,23745,Nie,0,Tak,kot
+Antek,Warszawa,22363,Tak,4,Tak,małpa
+Jan,Kobyla Góra,12424,Tak,3,Tak,małpa
+Jan,Gdynia,24566,Tak,2,Tak,słoń
+Beata,Kobyla Góra,23385,Nie,0,Tak,kot
+Ewa,Warszawa,10710,Nie,0,Nie,brak
+Magda,Pcim,11191,Nie,0,Tak,kot
+Jan,Orłowo,16551,Nie,0,Tak,słoń
+Magda,Gdańsk,22850,Tak,4,Nie,brak
+Beata,Łódź,20278,Tak,4,Nie,brak
+Antek,Gdynia,9608,Tak,2,Nie,brak
+Ewa,Orłowo,12530,Tak,4,Nie,brak
+Ewa,Orłowo,24908,Tak,2,Tak,pies
+Jola,Ełk,21817,Nie,0,Nie,brak
+Julian,Ełk,8779,Nie,0,Tak,pies
+Tomasz,Gdynia,22523,Nie,0,Nie,brak
+Ewa,Adamczycha,20397,Nie,0,Nie,brak
+Anna,Orłowo,7623,Tak,3,Nie,brak
+Beata,Ełk,20658,Tak,3,Tak,małpa
+Sylwia,Zielona Góra,10123,Nie,0,Tak,słoń
+Ewa,Pcim,22618,Tak,2,Tak,małpa
+Ewa,Adamczycha,19412,Tak,1,Tak,pies
+Klaudia,Legnica,20768,Tak,2,Nie,brak
+Ola,Pcim,24278,Tak,3,Tak,małpa
+Agata,Zielona Góra,7691,Nie,0,Nie,brak
+Magda,Pcim,24110,Tak,3,Tak,kot
+Anna,Kobyla Góra,20951,Tak,3,Nie,brak
+Sylwia,Kobyla Góra,15898,Tak,1,Nie,brak
+Klaudia,Adamczycha,6513,Tak,3,Tak,pies
+Ola,Legnica,18774,Nie,0,Tak,małpa
+Agata,Legnica,14138,Tak,4,Tak,pies
+Ewa,Orłowo,5898,Nie,0,Nie,brak
+Tomasz,Ełk,12940,Nie,0,Tak,pies
+Anna,Łódź,24750,Nie,0,Nie,brak
+Jola,Warszawa,8193,Tak,4,Tak,małpa
+Ela,Legnica,7284,Nie,0,Tak,kot
+Ola,Zielona Góra,19683,Tak,4,Tak,pies
+Ewa,Ełk,17089,Tak,3,Nie,brak
+Sylwia,Adamczycha,7889,Nie,0,Nie,brak
+Klaudia,Warszawa,23532,Tak,1,Nie,brak
+Sylwia,Zielona Góra,7774,Nie,0,Nie,brak
+Ewa,Gdynia,8061,Nie,0,Tak,małpa
+Julian,Gdańsk,21268,Tak,3,Nie,brak
+Magda,Łódź,6839,Tak,3,Tak,kot
+Magda,Łódź,15207,Nie,0,Nie,brak
+Julian,Wrocław,19197,Tak,1,Nie,brak
+Ola,Kobyla Góra,11697,Tak,4,Tak,kot
+Agata,Legnica,10237,Nie,0,Nie,brak
+Klaudia,Kobyla Góra,19574,Nie,0,Nie,brak
+Beata,Pcim,18070,Tak,2,Tak,kot
+Tomasz,Zielona Góra,18333,Tak,3,Tak,słoń
+Beata,Kobyla Góra,20497,Tak,2,Nie,brak
+Ela,Orłowo,18169,Tak,1,Tak,małpa
+Ewa,Orłowo,18109,Tak,1,Nie,brak
+Tomasz,Warszawa,8429,Nie,0,Nie,brak
+Anna,Adamczycha,23471,Nie,0,Nie,brak
+Ewa,Legnica,10157,Nie,0,Tak,kot
+Jola,Legnica,17195,Tak,2,Tak,pies
+Jurek,Orłowo,9687,Nie,0,Tak,kot
+Jurek,Adamczycha,11648,Tak,1,Nie,brak
+Ola,Ełk,23404,Tak,4,Tak,słoń
+Ewa,Warszawa,18679,Nie,0,Tak,słoń
+Magda,Pcim,23129,Nie,0,Nie,brak
+Jan,Wrocław,9972,Tak,2,Tak,kot
+Sylwia,Ełk,13097,Tak,4,Tak,małpa
+Tomasz,Łódź,5913,Nie,0,Tak,kot
+Klaudia,Wrocław,6544,Tak,1,Tak,słoń
+Jan,Orłowo,15576,Nie,0,Nie,brak
+Agata,Wrocław,20971,Nie,0,Tak,słoń
+Julian,Łódź,23640,Nie,0,Tak,słoń
+Anna,Pcim,19697,Nie,0,Nie,brak
+Klaudia,Gdańsk,23230,Tak,1,Nie,brak
+Ewa,Gdynia,18228,Nie,0,Tak,kot
+Agata,Warszawa,13325,Nie,0,Tak,słoń
+Agata,Kobyla Góra,13910,Tak,2,Nie,brak
+Jurek,Łódź,20893,Nie,0,Nie,brak
+Anna,Warszawa,17142,Nie,0,Nie,brak
+Antek,Pcim,10883,Nie,0,Tak,słoń
+Jurek,Ełk,14832,Nie,0,Tak,kot
+Ewa,Ełk,11976,Nie,0,Nie,brak
+Jan,Orłowo,9497,Tak,1,Tak,kot
+Sylwia,Wrocław,6855,Nie,0,Nie,brak
+Tomasz,Gdynia,19537,Nie,0,Nie,brak
+Jan,Ełk,6312,Tak,2,Nie,brak
+Anna,Pcim,13686,Tak,4,Tak,małpa
+Ela,Adamczycha,12552,Nie,0,Tak,pies
+Ewa,Gdańsk,8004,Tak,1,Nie,brak
+Jola,Łódź,9106,Nie,0,Tak,słoń
+Beata,Orłowo,25262,Tak,4,Nie,brak
+Tomasz,Adamczycha,6900,Tak,2,Nie,brak
+Jola,Adamczycha,20428,Tak,2,Tak,kot
+Jola,Gdańsk,25388,Tak,4,Nie,brak
+Ola,Pcim,7395,Nie,0,Nie,brak
+Klaudia,Gdańsk,13819,Nie,0,Tak,pies
+Ewa,Legnica,7249,Tak,2,Tak,małpa
+Ela,Pcim,18981,Tak,4,Nie,brak
+Ola,Pcim,20183,Nie,0,Tak,słoń
+Sylwia,Kobyla Góra,13478,Tak,2,Nie,brak
+Ewa,Warszawa,23486,Nie,0,Nie,brak
+Ela,Adamczycha,12919,Nie,0,Tak,pies
+Sylwia,Wrocław,7649,Tak,3,Tak,pies
+Antek,Zielona Góra,10391,Tak,2,Tak,małpa
+Tomasz,Łódź,22311,Tak,2,Tak,małpa
+Anna,Legnica,15278,Nie,0,Tak,pies
+Magda,Legnica,13473,Tak,4,Tak,kot
+Julian,Łódź,24677,Nie,0,Tak,słoń
+Anna,Gdynia,16249,Nie,0,Tak,pies
+Jola,Zielona Góra,24722,Nie,0,Nie,brak
+Beata,Gdańsk,25392,Nie,0,Nie,brak
+Jurek,Gdynia,16307,Tak,4,Tak,małpa
+Antek,Gdynia,13562,Nie,0,Tak,pies
+Ola,Ełk,15688,Nie,0,Nie,brak
+Jurek,Kobyla Góra,10494,Nie,0,Tak,kot
+Anna,Warszawa,22880,Tak,1,Tak,słoń
+Ola,Łódź,13043,Nie,0,Nie,brak
+Anna,Zielona Góra,19351,Nie,0,Nie,brak
+Beata,Adamczycha,15646,Nie,0,Tak,słoń
+Beata,Łódź,14816,Nie,0,Nie,brak
+Sylwia,Adamczycha,7797,Tak,2,Nie,brak
+Anna,Wrocław,24042,Tak,1,Tak,pies
+Agata,Warszawa,25187,Nie,0,Tak,kot
+Jan,Kobyla Góra,11538,Nie,0,Nie,brak
+Beata,Orłowo,19798,Tak,3,Nie,brak
+Jan,Łódź,24014,Tak,1,Tak,małpa
+Tomasz,Orłowo,22040,Nie,0,Tak,małpa
+Jurek,Łódź,7336,Nie,0,Nie,brak
